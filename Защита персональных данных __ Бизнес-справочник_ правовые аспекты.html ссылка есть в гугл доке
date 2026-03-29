@@ -1,0 +1,1175 @@
+<!DOCTYPE html>
+<!-- saved from url=(0047)https://its.1c.ru/db/bizlegsup#content:247:hdoc -->
+<html lang="ru" class="sidebar_level0 no-touchscreen"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+		
+		<title id="w_title" class="w" src="">Защита персональных данных :: Бизнес-справочник: правовые аспекты</title>		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+		<meta name="theme-color" content="#ffdf16">
+		<style id="css_shell" media="(min-width:479px)">html{width:100%;height:100%;background:#fff url('data:image/gif;base64,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') center center no-repeat}body{display:none}</style>
+		<!--<base id="w_base" class="l" data-nonce="1770133774" href="/db/content/bizlegsup/src/4060000_т_защита_пд.htm" target="w_metadata_doc_frame">--><base href="." target="w_metadata_doc_frame">		
+		<link id="w_canonical" rel="canonical" class="l" href="https://its.1c.ru/db/bizlegsup/content/247/hdoc">		<script src="./Защита персональных данных __ Бизнес-справочник_ правовые аспекты_files/tag.js" async=""></script><script type="text/javascript">
+			(function(){
+				var n = navigator, d = document, de = d.documentElement, dc = de.className.replace(/(^|\s+)js-disabled(\s+|$)/, ' '), rxos = /(^|\s+)(android|ios)(\s+|$)/;
+				if(window.TouchEvent && 'standalone' in n || window.matchMedia && matchMedia('(any-pointer: coarse)').matches){
+					dc = dc.replace(/(^|\s+)no-touchscreen(\s+|$)/, ' touchscreen ');
+					if(window.TouchEvent && 'standalone' in n){
+						dc = dc.replace(rxos, ' ios ');
+						d.addEventListener('touchstart', (function(){return function(){}})());
+					}
+					else if(n.userAgentData && n.userAgentData.platform === 'Android'
+					|| (!n.userAgentData || !n.userAgentData.platform && n.vendor === 'Google Inc.') && n.userAgent.match(/\bAndroid\b/))
+						dc = dc.replace(rxos, ' android ');
+					else
+						dc = dc.replace(rxos, ' ');
+				}else
+					dc = dc.replace(rxos, ' ').replace(/(^|\s+)touchscreen(\s+|$)/, ' no-touchscreen ');
+				de.className = dc;
+			})();
+		</script>
+		<script type="text/javascript">
+window.deferred=[];window.errors=[];;
+history.replaceState(null, document.title, '/db/bizlegsup/content/256/hdoc' + location.hash.replace('#', '/'));;
+deferred.push(function(){App.User.init(false, 'BITRIX_SM_LOGIN', 'SUBSCRIBE_PERIOD', 'PARTWEB_LOGIN', 'FRESH_LOGIN', 'BITRIX_SM_UIDH', '/user/auth/ping.json', 1380);});
+</script>		<script type="text/javascript">
+			window.TEMPLATE_NEW = true;
+			window.MOBILE_ENABLED = true;
+		</script>
+		<style>
+		@font-face {
+			font-family: 'Roboto';
+			src: url('/font/roboto/Roboto-Regular.woff2') format('woff2'),
+				 url('/font/roboto/Roboto-Regular.woff') format('woff');
+			font-weight: normal;
+			font-style: normal;
+			font-display: block;
+		}
+		@font-face {
+			font-family: 'Roboto';
+			src: url('/font/roboto/Roboto-Bold.woff2') format('woff2'),
+				 url('/font/roboto/Roboto-Bold.woff') format('woff');
+			font-weight: bold;
+			font-style: normal;
+			font-display: block;
+		}
+		@font-face {
+			font-family: 'FuturaMediumC';
+			src: url('/font/futura/FuturaMediumC.woff2') format('woff2'),
+				 url('/font/futura/FuturaMediumC.woff') format('woff');
+			font-weight: 500;
+			font-style: normal;
+			font-display: block;
+		}
+		@font-face {
+			font-family: 'FuturaDemiC';
+			src: url('/font/futura/FuturaDemiC.woff2') format('woff2'),
+				 url('/font/futura/FuturaDemiC.woff') format('woff');
+			font-weight: normal;
+			font-style: normal;
+			font-display: block;
+		}
+		@font-face {
+			font-family: 'FuturaBookC';
+			src: url('/font/futura/FuturaBookC.woff2') format('woff2'),
+				 url('/font/futura/FuturaBookC.woff') format('woff');
+			font-weight: normal;
+			font-style: normal;
+			font-display: block;
+		}
+		@font-face {
+			font-family: 'FuturaLightC';
+			src: url('/font/futura/FuturaLightC.woff2') format('woff2'),
+				 url('/font/futura/FuturaLightC.woff') format('woff');
+			font-weight: 300;
+			font-style: normal;
+			font-display: block;
+		}
+		</style>
+					<noscript id="css_noscript"><link rel="stylesheet" type="text/css" href="/common/page/css/1769184892/core__new.css_?_=1769184892"><link rel="stylesheet" type="text/css" href="/common/page/css/1769184892/its__new.css_?_=1769184892"><link rel="stylesheet" type="text/css" href="/css/mobile.css?_=1758294439"></noscript>							<script type="text/javascript">
+(function(){
+var a = false,
+d = document,
+r = d.referrer,
+mm = window.matchMedia,
+m = '(any-pointer: coarse), (pointer: none)',
+sm = '(max-width: 478px)',
+mmm = mm ? mm(m) : void 0,
+p = '<' + 'link rel="stylesheet" type="text/css" href="', s = '">',
+pf = window.performance,
+n = navigator,
+nc = n.connection,
+hc = n.hardwareConcurrency,
+dm = n.deviceMemory,
+ect = nc ? nc.effectiveType : void 0,
+shell = "",
+csi = 'css_shell',
+cst = 550,
+smm = shell && sm && mm && mm(sm).matches;
+if(cst && (hc && hc < 4 || dm && dm < 4))
+	cst /= 2;
+try{
+if(mmm
+&& mmm.media !== 'not all'
+&& (mmm.matches || ect && ect !== '4g' || cst && pf && pf.now && pf.now() >= cst)
+&& (smm || !r || r.indexOf(location.protocol + '//' + location.host + '/') !== 0))
+	a = true;
+}catch(e){}
+var ls = ["/common/page/css/1769184892/core__new.css_?_=1769184892","/common/page/css/1769184892/its__new.css_?_=1769184892","/css/mobile.css?_=1758294439"];
+if(a){
+	window.styleDeferred = [];
+	var sd = window.styleDeferred;
+	sd.cssUrls = ls;
+	var st = d.getElementById(csi);
+	if(smm){
+		sd.usingShell = true;
+		sd.usingFullShell = true;
+		if(st){
+			st.firstChild.nodeValue = shell;
+			st.media = 'all';
+			sd.appendShell = function(css){
+				if(!st.parentNode)
+					return;
+				var nst = d.createElement('STYLE');
+				nst.className = csi;
+				nst.appendChild(d.createTextNode(css));
+				d.head.appendChild(nst);
+			};
+		}
+		if(d.visibilityState !== 'hidden'
+		&& 'standalone' in n
+		&& pf
+		&& pf.now){
+			sd.waitingPaint = true;
+			d.documentElement.className += ' waiting-paint';
+		}
+	}else{
+		sd.usingSplash = true;
+		if(st)
+			st.media = 'all';
+	}
+}
+else
+	d.write(p + ls.join(s + p) + s);
+})();
+</script><link rel="stylesheet" type="text/css" href="./Защита персональных данных __ Бизнес-справочник_ правовые аспекты_files/core__new.css_"><link rel="stylesheet" type="text/css" href="./Защита персональных данных __ Бизнес-справочник_ правовые аспекты_files/its__new.css_"><link rel="stylesheet" type="text/css" href="./Защита персональных данных __ Бизнес-справочник_ правовые аспекты_files/mobile.css">								<style>
+				html
+		{contain:strict}
+		html::-webkit-scrollbar,
+		body::-webkit-scrollbar
+		{display:none}
+				</style>
+		<link id="favicon_static" type="image/x-icon" rel="icon" href="https://its.1c.ru/favicon.ico">
+				<link rel="apple-touch-icon" sizes="120x120" href="https://its.1c.ru/img_new/logo_its_apple_touch_120.png?_=1621642314">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://its.1c.ru/img_new/logo_its_apple_touch_152.png?_=1621642321">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://its.1c.ru/img_new/logo_its_apple_touch_180.png?_=1621642327">
+		<meta name="og:image" content="https://its.1c.ru/db/content/bizlegsup/_metaimage/256/hdoc/696x394.png?_=0000005DCD832941-v2">
+		<meta name="og:image" content="https://its.1c.ru/db/content/bizlegsup/_metaimage/256/hdoc/770x342.png?_=0000005DCD832941-v2">
+		<meta name="og:image" content="https://its.1c.ru/img_new/logo_its_og_image_300.png?_=1686643598">
+		<meta name="robots" content="noarchive">
+		<link rel="search" type="application/opensearchdescription+xml" title="1С:ИТС" href="https://its.1c.ru/search/opensearch.xml">
+	<link rel="prefetch" href="https://its.1c.ru/font/roboto/Roboto-Light.woff2"><link rel="prefetch" href="https://its.1c.ru/font/roboto/Roboto-Bold.woff2"><link rel="preconnect" href="https://mc.yandex.ru/"><link rel="preconnect" href="https://counter.yadro.ru/"><link rel="prefetch" as="script" href="./Защита персональных данных __ Бизнес-справочник_ правовые аспекты_files/core__new.js_" fetchpriority="high"><link rel="prefetch" as="script" href="./Защита персональных данных __ Бизнес-справочник_ правовые аспекты_files/its__new.js_" fetchpriority="high"><script type="text/javascript" async="" src="./Защита персональных данных __ Бизнес-справочник_ правовые аспекты_files/core__new.js_"></script><script type="text/javascript" async="" src="./Защита персональных данных __ Бизнес-справочник_ правовые аспекты_files/its__new.js_"></script><link rel="prefetch" href="https://its.1c.ru/font/futura/FuturaMediumC.woff2"><link rel="prefetch" href="https://its.1c.ru/common/page/css/itsstylenew.css_?_=1697110879"><link rel="prefetch" href="https://its.1c.ru/css/its.content.new.css?_=1693585191"><link rel="prefetch" href="https://its.1c.ru/js/its.content.js?_=1697980666"><link rel="prefetch" href="https://its.1c.ru/common/page/css/1769184892/main__new.css_?_=1769184892"><link rel="prefetch" href="https://its.1c.ru/common/page/js/1769186359/main__new.js_?_=1769186359"><link rel="prefetch" href="https://its.1c.ru/common/page/css/1769184892/user__new.css_?_=1769184892"><link rel="prefetch" href="https://its.1c.ru/common/page/css/1769184892/document__new.css_?_=1769184892"><link rel="prefetch" href="https://its.1c.ru/font/futura/FuturaDemiC.woff2"><link rel="prefetch" href="https://its.1c.ru/font/roboto/Roboto-Light.woff2"><link rel="prefetch" href="https://its.1c.ru/font/roboto/Roboto-Bold.woff2"><link rel="prefetch" href="https://its.1c.ru/font/roboto/Roboto-Italic.woff2"><link rel="prefetch" href="https://its.1c.ru/font/roboto/Roboto-Black.woff2"><link rel="prefetch" href="https://its.1c.ru/font/futura/FuturaLightC.woff2"><link rel="prefetch" href="https://its.1c.ru/img_new/logo_its_resize_on_white.gif"><link id="favicon" type="image/x-icon" rel="icon" href="https://its.1c.ru/favicon.ico"></head>
+	<body class="ru lang_ru its main main_main tabbed unauthorized" data-app="its" data-module="main" data-action="main">
+		<script type="text/javascript">
+			if(window.styleDeferred && !styleDeferred.inactive && (!styleDeferred.usingShell || styleDeferred.waitingPaint || !('standalone' in navigator)))
+				(function(){var forceLayout = document.documentElement.offsetHeight;})();
+		</script>
+			<script type="text/javascript">
+if(window.styleDeferred){
+(function(){
+var d = document,
+sd = window.styleDeferred,
+smm = sd.usingShell,
+ex = function(cb){cb();},
+st0 = function(cb){setTimeout(cb, 0);},
+raf = window.requestAnimationFrame || st0,
+draf = function(cb){raf(function(){raf(cb);});},
+traf = function(cb){draf(function(){raf(cb);});};
+(!smm || d.visibilityState === 'hidden' ? ex : ('standalone' in navigator && sd.usingFullShell ? traf : draf))(function(){
+var h = d.head,
+csi = 'css_shell',
+st = d.getElementById(csi),
+mm = window.matchMedia,
+m = '(any-pointer: coarse), (pointer: none)',
+ms = m.split(','),
+lm = 'print',
+nc = navigator.connection,
+ect = nc ? nc.effectiveType : void 0,
+ls = sd.cssUrls,
+len = ls.length,
+le = [],
+i,
+l;
+for(i = 0; i < ms.length; i++)
+	if(mm(ms[i]).matches){
+		lm = 'not all and ' + ms[i];
+		break;
+	}
+var chks = function(ae){
+	for(i = 0; i < len; i++)
+		if(!ae && le[i].error)
+			return false;
+		else if(le[i].media === 'all'
+		&& le[i].sheet
+		&& le[i].sheet.media.mediaText
+		&& le[i].sheet.media.mediaText.match(/^not all and\b/)
+		&& !mm(le[i].sheet.media.mediaText).matches)
+			return false;
+	return true;
+};
+var chkd = function(){
+		if(!smm)
+		return true;
+		if(!d.body)
+		return false;
+		return true;
+};
+var chke = function(id, fs, pi){
+	var we = d.getElementById(id), ii = we && we.tagName === 'IFRAME';
+	if(we && ii && we.src !== 'javascript:' && we.src !== 'about:blank' && !we.src.match(/^https?:\/\/[^\/]+\/blank\.htm$/))
+		try{
+			var cd = we.contentDocument;
+			if((!cd || !cd.head || !cd.body || !cd.body.childElementCount && (!cd.head.childElementCount || cd.readyState === 'loading'))
+			|| (cd.body.childElementCount === 1 && cd.body.firstElementChild.tagName === 'SCRIPT' && typeof cd.body.innerText === 'string' && cd.body.innerText === '')
+			|| (smm && fs.length && cd.readyState !== 'complete' && !chkf(fs, cd))
+			|| (smm && cd.readyState === 'loading' && (pi ? cd.querySelectorAll('*').length < 100 : cd.documentElement.offsetHeight < we.offsetHeight)))
+				return false;
+		}catch(e){}
+	if(we && !ii && fs.length && d.readyState !== 'complete' && !chkf(fs, d))
+		return false;
+	return we || d.readyState !== 'loading';
+};
+var chkf = function(fs, d){
+	var df = d.fonts;
+	if(df && df.size && (!ect || ect === '4g'))
+		for(i = 0; i < fs.length; i++)
+			try{
+				if(!df.check([fs[i]]))
+					return false;
+			}catch(e){}
+	return true;
+};
+var brk = function(){
+	d.documentElement.className += ' css-failed';
+	sd.error = true;
+	if(sd.onerror)
+		sd.onerror();
+};
+var act = function(that){
+	that.onload = null;
+	that.onerror = null;
+	that.loaded = true;
+	if(d.body)
+		d.body.style.setProperty('display', 'none', 'important');
+	for(i = 0; i < len; i++)
+		if(le[i].error
+		&& (!d.body || !smm || !st || !window.fetch)){
+			if(d.body)
+				d.body.style.removeProperty('display');
+			brk();
+			return;
+		}
+	for(i = 0; i < len; i++)
+		if(!le[i].error)
+			le[i].media = 'all';
+	if(d.body){
+		if(chks())
+			fin();
+		else if(smm && st && window.fetch){
+			var ps = [];
+			for(i = 0; i < len; i++){
+				ps.push(fetch(le[i].href));
+				if(!le[i].error){
+					le[i].media = lm;
+					le[i].loaded = false;
+					le[i].onload = function(){};
+				}
+			}
+			d.body.style.removeProperty('display');
+			Promise.all(ps).then(function(pr){
+				var pt = [];
+				for(i = 0; i < pr.length; i++)
+					if(pr[i].ok)
+						pt.push(pr[i].text());
+					else{
+						brk();
+						return;
+					}
+				if(pt.length)
+					Promise.all(pt).then(function(tr){
+						sets(tr.join("\r\n"));
+						for(i = 0; i < len; i++)
+							le[i].parentNode.removeChild(le[i]);
+						rsd();
+					});
+				else{
+					fin();
+					rsd();
+				}
+			});
+			return;
+		}
+		else{
+			sd.unshift(fin);
+			sd.finalizeInterval = setInterval(function(){
+				if(!chks()){
+					if(chks(true))
+						clearInterval(sd.finalizeInterval);
+					return;
+				}
+				clearInterval(sd.finalizeInterval);
+				delete sd.finalizeInterval;
+				rsd();
+			}, 16);
+			return;
+		}
+	}else if(smm && st)
+		sets();
+	rsd();
+};
+var fin = function(){
+	if(smm && st)
+		sets();
+	d.body.style.removeProperty('display');
+};
+var sets = function(css){
+	var sts = d.getElementsByClassName(csi), rsts = [];
+	for(i = 0; i < sts.length; i++)
+		rsts.push(sts[i]);
+	for(i = 0; i < rsts.length; i++)
+		h.removeChild(rsts[i]);
+	if(!st)
+		return;
+	else if(css)
+		st.firstChild.textContent = css;
+	else{
+		h.removeChild(st);
+		st = null;
+	}
+};
+var rsd = function(){
+	if(window.SSP)
+		sd.unshift(function(){
+					var forceLayout = d.documentElement.offsetWidth;
+				});
+	var sdlen = sd.length;
+	for(i = 0; i < sdlen; i++)
+		try{sd[i].call(window)}
+		catch(e){console.log(e)}
+	sd.length = 0;
+	sd.inactive = true;
+};
+var ol = function(){
+	var that = this, core = false;
+	for(i = 0; i < len; i++){
+		if(!i && le[i] === that)
+			core = true;
+		if(le[i] !== that && !le[i].loaded){
+			this.onload = null;
+			this.onerror = null;
+			this.loaded = true;
+			if(sd.loadScriptsAfterFirstStylesheet && d.readyState !== 'loading'){
+				var cect = nc ? nc.effectiveType : void 0;
+				var t = core || sd.usingShell ? 0 : 100,
+					fph = cect !== 'slow-2g' && (cect !== '4g' || core && nc.rtt >= 200);
+				if(!core && !sd.usingShell && window.performance && performance.now){
+					var now = performance.now(),
+						fine = now < 2000,
+						slow = now >= 4000,
+						critical = now >= 10000;
+					fph = !fine && !critical;
+					if(slow)
+						t = now / (cect === 'slow-2g' || critical ? 2 : 5);
+					else if(!fine)
+						t = 2500 - now - t - (nc ? nc.rtt : t);
+					if(t < 0)
+						t = 0;
+					t = parseInt(t);
+				}
+				var cs = sd.loadScriptsAfterFirstStylesheet;
+				setTimeout(function(){
+					cs(fph);
+				}, t);
+				delete sd.loadScriptsAfterFirstStylesheet;
+			}
+			return;
+		}
+	}
+	if(sd.prioritizeInterval){
+		clearInterval(sd.prioritizeInterval);
+		delete sd.prioritizeInterval;
+	}
+	if(chkd()){
+		if(d.visibilityState === 'hidden'
+		&& !d.prerendering)
+			setTimeout(function(){
+				act(that);
+				setTimeout(function(){
+					if(d.body)
+						var forceLayout = d.body.offsetHeight;
+				}, 0);
+			}, 0);
+		else
+			ex(function(){
+				act(that);
+			});
+	}
+	else
+		sd.activateInterval = setInterval(function(){
+			if(!chkd())
+				return;
+			clearInterval(sd.activateInterval);
+			delete sd.activateInterval;
+			if(d.visibilityState === 'hidden'
+			&& !d.prerendering)
+				setTimeout(function(){
+					act(that);
+				}, 0);
+			else
+				ex(function(){
+					act(that);
+				});
+		}, 16);
+};
+var oe = function(){
+	this.error = true;
+	ol.call(this);
+};
+var lp = HTMLLinkElement.prototype, fpp;
+if('fetchPriority' in lp)
+	fpp = 'fetchPriority';
+else if('fetchpriority' in lp)
+	fpp = 'fetchpriority';
+else
+	fpp = null;
+var lc = false, cl = function(){
+	if(!lc)
+		lc = true;
+	else
+		return;
+	for(i = 0; i < len; i++){
+		l = d.createElement('LINK');
+		le.push(l);
+		l.rel = 'stylesheet';
+		l.type = 'text/css';
+		l.media = lm;
+		l.href = ls[i];
+		l.onload = ol;
+		l.onerror = oe;
+		if(fpp){
+					l[fpp] = sd.usingFullShell ? 'low' : 'high';
+				}
+		h.appendChild(l);
+	}
+	}, clcs = function(){
+	cl();
+	if(sd.loadScriptsAfterFirstPaint){
+		var cs = sd.loadScriptsAfterFirstPaint;
+		setTimeout(function(){
+			cs();
+		}, 0);
+		delete sd.loadScriptsAfterFirstPaint;
+	}
+};
+if(sd.waitingPaint){
+	if(d.visibilityState === 'hidden'){
+		sd.waitingPaint = false;
+		cl();
+	}else{
+		var ce = function(){
+			return chke('', []);
+		};
+		var epl = function(){
+					};
+		sd.paintInterval = setInterval(function(){
+			if(d.visibilityState === 'hidden')
+				var pl = 1;
+			else if(window.PerformancePaintTiming){
+				var pl = performance.getEntriesByType('paint').length;
+				if(!pl && 'standalone' in navigator && (pl = epl()))
+					performance.faultyPaintReportingDisabled = 'timeout';
+				if(!pl && (d.readyState !== 'complete' || 'standalone' in navigator && sd.usingFullShell && performance.now() < 800)
+				|| !ce())
+					return;
+				else if(!pl
+				&& 'standalone' in navigator
+				&& !performance.faultyPaintReportingDisabled){
+					var dfpr = function(){
+						if(!performance.getEntriesByType('paint').length)
+							performance.faultyPaintReportingDisabled = 'timeout';
+					};
+					if('standalone' in navigator)
+						sd.unshift(dfpr);
+					else
+						traf(function(){
+							setTimeout(dfpr, 500);
+						});
+				}
+			}else{
+				var pl = 0;
+				if(d.readyState !== 'complete' && performance.now() < 4000 && !ce())
+					return;
+			}
+			sd.waitingPaint = false;
+			d.documentElement.className = d.documentElement.className.replace(/(^|\s+)waiting-paint(\s+|$)/, ' ');
+			if(pl)
+				clcs();
+			else
+				traf(clcs);
+			clearInterval(sd.paintInterval);
+			delete sd.paintInterval;
+		}, 16);
+	}
+}else
+	cl();
+if(!smm && d.body)
+	d.body.style.setProperty('display', 'none', 'important');
+});
+})();
+}
+</script>		<div id="main_container" class="sidebar-fixed" data-viewport-shift-media-max-width-portrait="478px" data-viewport-shift-media-max-width-landscape="991px" data-viewport-shift-snap-padding="5px" data-viewport-shift-scrollbar-width="10px" data-viewport-shift-scrollbar-border-width="3px" data-viewport-shift-translate-x="0px" data-viewport-shift-absolute-max-shift="265">
+<!-- noindex -->
+		<div id="header">
+			<div id="w_siteselect" class="w" style="display:none"></div>			<div class="top-personal">
+				<div id="w_user_login" class="w unauthorized null"><iframe id="auth_check" name="auth_check" style="display:none" src="./Защита персональных данных __ Бизнес-справочник_ правовые аспекты_files/login.html" class="nojs"></iframe>
+<div id="personal_info">
+	<a id="login" class="nojs" href="https://its.1c.ru/user/auth?backurl=%2Fdb%2Fbizlegsup%2Fcontent%2F256%2Fhdoc" target="_top" rel="nofollow" onclick="this.href=this.href.replace(/\?backurl=.*$/,&#39;?backurl=&#39;+encodeURIComponent(location.href.replace(/^https?:\/\/[^\/]+/, &#39;&#39;)))">Вход</a>
+</div>
+<div class="avatar">
+	<a class="nojs" href="https://its.1c.ru/user/auth?backurl=%2Fdb%2Fbizlegsup%2Fcontent%2F256%2Fhdoc" target="_top" rel="nofollow" onclick="this.href=this.href.replace(/\?backurl=.*$/,&#39;?backurl=&#39;+encodeURIComponent(location.href.replace(/^https?:\/\/[^\/]+/, &#39;&#39;)))" aria-label="Вход">&nbsp;</a>
+</div>
+</div>			</div>
+			<div id="top_menu" style="--menu-item-count: 13;">
+				<div id="top_menu_burger_space">
+					<div id="top_menu_burger" onclick="setTimeout(function(){var d=document,de=d.documentElement,db=d.body,mc=d.getElementById(&#39;main_container&#39;),rx=/\bshow-menu\b/,hc=db.className.match(rx);if(!d.getElementById(&#39;w_sidebar_menu&#39;)||window.styleDeferred&amp;&amp;styleDeferred.usingShell&amp;&amp;!styleDeferred.inactive){alert(window.styleDeferred.error?&#39;Произошла ошибка. Пожалуйста, перезагрузите страницу.&#39;:&#39;Пожалуйста, подождите...&#39;);return}if(hc){de.className=de.className.replace(rx, &#39;&#39;);db.className=db.className.replace(rx, &#39;&#39;)}else{de.className+=&#39; show-menu&#39;;db.className+=&#39; show-menu&#39;}if(window.SSP&amp;&amp;window.App){!hc&amp;&amp;App.Sidebar.load(false,false,function(){});!hc&amp;&amp;App.Viewport.hasShift()&amp;&amp;db.addEventListener(&#39;transitionend&#39;,App.Viewport.resetShift,false);if(App.sidebarCarousel.getPosition()){App.sidebarCarousel.adjust();!hc&amp;&amp;App.sidebarCarousel.moveTo(0);}}}, 0)"></div>
+				</div>
+				<div class="top_menu1">
+					<div class="top_menu_item"><a target="_top" href="https://its.1c.ru/db/aboutitsnew">Об 1С:ИТС</a></div>
+					<div class="top_menu_item"><a target="_top" href="https://its.1c.ru/test-drive">Тест-драйв</a></div>
+					<div class="top_menu_item"><a target="_top" href="https://its.1c.ru/zakaz?order[comment]=%C7%E0%FF%E2%EA%E0%20%ED%E0%20%E7%E0%EA%EB%FE%F7%E5%ED%E8%E5%20%E4%EE%E3%EE%E2%EE%F0%E0%20%C8%D2%D1">Заказать ИТС</a></div>
+										<div class="top_menu_item"><a target="_top" href="https://its.1c.ru/docs/question/">Задать вопрос</a></div>
+										<div class="top_menu_item"><a target="_top" href="https://its.1c.ru/docs/update1c/">Обновить ПО</a></div>
+										<div class="top_menu_item"><a target="_top" href="https://its.1c.ru/personal/qos">Оценить 1С</a></div>
+															<div class="top_menu_item"><a target="_blank" rel="noopener" href="https://torg.1c.ru/equipment/onlayn-kassy/?utm_source=its&amp;utm_medium=tmenu">Купить кассу</a></div>
+									</div>
+				<div class="top_menu2">
+										<div class="top_menu_item"><a target="_top" href="https://its.1c.ru/db/itsrev">Тематические подборки</a></div>
+															<div class="top_menu_item"><a target="_top" href="https://its.1c.ru/calendar">Календарь бухгалтера</a></div>
+															<div class="top_menu_item"><a target="_top" href="https://its.1c.ru/docs/calc_help/">Калькуляторы</a></div>
+					<div class="top_menu_item"><a target="_top" href="https://its.1c.ru/kbk">Подбор КБК</a></div>
+															<div class="top_menu_item last_search_link"><a target="_top" href="https://its.1c.ru/db/morphmerged/search">Последние результаты поиска</a></div>
+																				<div class="top_menu_item"><a target="_top" href="https://its.1c.ru/news/subscription">Подписаться на рассылку</a></div>
+																								</div>
+			</div>
+			<script type="text/javascript">
+				document.getElementById('top_menu').style.setProperty('--menu-item-count', document.getElementsByClassName('top_menu_item').length);
+			</script>
+		</div>
+		<!-- /noindex -->			<script type="text/javascript">
+				if(window.performance
+				&& (performance.getEntriesByName || performance.getEntriesByType)
+				&& window.PerformancePaintTiming
+				&& window.requestAnimationFrame)
+					(function(){
+						var disableFaultyPaintReporting = function(){
+							if(performance.faultyPaintReportingDisabled)
+								return;
+							else if(document.visibilityState === 'hidden' && !performance.getEntriesByType('paint').length)
+								performance.faultyPaintReportingDisabled = document.prerendering ? 'prerender' : 'hidden';
+							else if(!('standalone' in navigator) && (!window.styleDeferred || !styleDeferred.waitingPaint))
+								requestAnimationFrame(function(){
+									requestAnimationFrame(function(){
+										setTimeout(function(){
+											if(performance.faultyPaintReportingDisabled || performance.getEntriesByType('paint').length)
+												return;
+											performance.faultyPaintReportingDisabled = 'timeout';
+										}, 500);
+									});
+								});
+						};
+						disableFaultyPaintReporting();
+					})();
+			</script>
+<script type="text/javascript">
+			deferred.push(function(){
+				App.navChainCarousel = new App.Carousel('navchain_inner', 'w_navchain', 'navchain_left', 'navchain_right', null, {
+					bypixel:false,
+					absolute:true,
+					step:1,
+					wrap:false
+				});
+				var navChain = SSP.DOM.byId('w_navchain');
+				SSP.DOM.listen(navChain, 'click', App.Handler.navChainClick);
+				if(SSP.Browser.hasTouchScreen)
+					SSP.DOM.listen(navChain, 'touchstart', App.Handler.navChainTouchStart);
+							});
+		</script><div id="navchain"><div class="navchain_carousel__navigation left disabled" id="navchain_left"></div><div id="navchain_inner">
+		<ol id="w_navchain" class="blank w" itemtype="http://schema.org/BreadcrumbList" itemscope="" src="null" style="visibility: visible; display: block; touch-action: none; transform: translate(0px, 0px);"><!--noindex-->
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="inline-block">
+<a class="inline-block" href="https://its.1c.ru/" id="navchain_level_1" target="_top" itemprop="item">Главная</a>
+<meta itemprop="name" content="Главная">
+<meta itemprop="position" content="1">
+</li>
+<!--/noindex-->
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="inline-block">
+<a class="inline-block" href="https://its.1c.ru/section/law" id="navchain_level_2" target="_top" itemprop="item">Консультации по законодательству</a>
+<meta itemprop="name" content="Консультации по законодательству">
+<meta itemprop="position" content="2">
+</li>
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="inline-block">
+<a class="inline-block" href="https://its.1c.ru/section/law/other" id="navchain_level_3" target="_top" title="Открытие и ведение бизнеса" itemprop="item">Открытие и ведение бизнеса</a>
+<meta itemprop="name" content="Открытие и ведение бизнеса">
+<meta itemprop="position" content="3">
+</li>
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="inline-block">
+<a class="inline-block" href="https://its.1c.ru/db/bizlegsup" id="navchain_level_4" target="_top" title="Бизнес-справочник: правовые аспекты" itemprop="item">Бизнес-справочник: правовые аспекты</a>
+<meta itemprop="name" content="Бизнес-справочник: правовые аспекты">
+<meta itemprop="position" content="4">
+</li>
+<li class="inline-block">
+<h1 class="inline-block" id="navchain_level_5" title="Защита персональных данных">Защита персональных данных</h1>
+</li>
+
+</ol>		</div><div class="navchain_carousel__navigation right disabled" id="navchain_right"></div></div>						<script type="text/javascript">
+				deferred.push(function(){try{SSP.Scroll.mimicByClass('mimic_scroll');}catch(e){}});
+							deferred.push(function(){if(!SSP.Browser.Android && !SSP.Browser.IOS && document.activeElement == document.body || document.activeElement == document.documentElement)SSP.DOM.requestAnimationFrame(function(){SSP.DOM.focus(SSP.DOM.byId('w_content'));});});
+						</script>
+<div id="w_content" class="l" tabindex="0"><div id="l_classifier" class="l" style="display:none"></div><div id="l_content" class="l with-toc null" style="display: block;"><div id="l_doc" class="l" style="display:"><div id="l_doc_frame" class="l" data-db="bizlegsup" data-doc="247" data-tab="hdoc" style="display:"><div id="l_doc_frame_inner" class="l null" data-header-font="" data-header-tag="" data-header-pseudo="" data-wait-fonts="" data-wait-images="" style=""><div class="thin_scroll_corner" style="display: none; width: 17px; height: 17px;"></div><div class="thin_scroll_bar_v" style="bottom: 0px; width: 17px; display: block;"><div class="thin_scroll_thumb_v" style="display: block; height: 576.945px; transform: translate(0px, 0px);"></div></div><div class="thin_scroll_bar_h" style="display: none; height: 17px; right: 0px;"><div class="thin_scroll_thumb_h" style="display: none; width: 66px; transform: translate(-66px, 0px);"></div></div><iframe id="w_metadata_doc_frame" name="w_metadata_doc_frame" src="javascript:" class="l mimic_scroll" frameborder="0" scrolling="auto" loading="false" style="overflow: visible;" src="./Защита персональных данных __ Бизнес-справочник_ правовые аспекты_files/saved_resource.html"></iframe></div><div id="w_metadata_doc_tabs" class="w null" style="display:none"></div><div id="w_metadata_doc_title" class="w" style="display:" src="null"><div id="doc_title" title="Защита персональных данных"><!--noindex-->Защита персональных данных<!--/noindex--></div><div id="l_doc_controls" class="l null"><div id="w_back_link" class="l"><a id="w_back_href" class="inline-block nojs l" href="javascript:history.back()" rel="nofollow" onclick="return window.App ? App.Its.Handler.backLinkClick.call(this, event) : true"><!--noindex-->Назад<!--/noindex--></a></div><div id="w_review_link" class="w" title="Оставить отзыв" style="display:none"><a href="https://its.1c.ru/db/review/edit/bizlegsup/247/1" class="popup" target="_top" rel="nofollow">&nbsp;</a></div><div id="w_review_likelink" class="w" title="Мне нравится" onclick="return App.Its.Handler.likeClick.call(this, event)" style="display:none"></div><div id="w_extended_search_button_doc" class="l" style="display:none"><a id="w_extended_search_href_doc" title="Расширенный поиск" class="inline-block l" target="_top" href="javascript:">&nbsp;</a></div><div id="w_metadata_findintoc" class="l" style="display:"><a id="w_metadata_findintoc_href" title="Оглавление" class="inline-block l" target="_top" href="https://its.1c.ru/db/bizlegsup" onclick="if(window.styleDeferred&amp;&amp;styleDeferred.usingShell&amp;&amp;!styleDeferred.inactive)return true;var lc=document.getElementById(&#39;l_content&#39;);lc.className=lc.className.replace(/\bhide-toc\b/,&#39;&#39;);if(lc.className.match(/\bshow-toc\b/)){lc.className=lc.className.replace(/\bshow-toc\b/,&#39;&#39;)}else{lc.className+=&#39; show-toc&#39;}return false" onmousedown="window.SSP&amp;&amp;window.App&amp;&amp;App.Its.Handler.findInTocMouseDown()">&nbsp;</a></div><div id="w_metadata_findinclassifier" class="l" style="display:none"><a id="w_metadata_findinclassifier_href" title="Найти в содержании" class="inline-block l" target="_top" href="javascript:">&nbsp;</a></div><div id="w_metadata_archive_button" class="l" style="display:none"><a id="w_metadata_archive_href" target="_top" class="inline-block nojs l" title="Актуальность" rel="nofollow" href="javascript:" onclick="return App.Its.Handler.archiveButtonClick.call(this, event)" data-title="">&nbsp;</a></div><div id="w_metadata_print_button" class="l"><a id="w_metadata_print_href" target="print" class="inline-block nojs l" title="Версия для печати" rel="nofollow" onclick="return App.Its.Handler.printButtonClick.call(this, event)" href="https://its.1c.ru/db/content/bizlegsup/src/4060000_%D1%82_%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0_%D0%BF%D0%B4.htm#_print">&nbsp;</a></div><div id="w_favorite_link" class="w" title="Избранное" onclick="return App.Its.Handler.favoriteClick.call(this, event)" style="display:none"></div><select id="w_metadata_versionselect" class="w" onchange="return App.Its.Handler.versionSelectChange.call(this, event)" style="display:none"></select><div id="w_search_highlight" class="w down" title="Подсветка найденного" onclick="return App.Its.Handler.searchHighlightClick.call(this, event)" style="display:none"></div></div></div></div><div id="l_toc" class="l" style="display:"><script type="text/javascript">(function(){if(window.matchMedia && !matchMedia('(max-width: 991px)').matches){var preloadToc = function(){if(!window.preloadedXHR)window.preloadedXHR={};var url='/db/metadata/bizlegsup/toc/1_?_=1770133774';var request=new XMLHttpRequest;request.open('GET', url, true);request.send();preloadedXHR[url]=request;};if(window.styleDeferred && !styleDeferred.inactive){styleDeferred.unshift(preloadToc);}else{preloadToc();}}})();</script><div id="w_metadata_toc_button" class="l" onclick="var lc=document.getElementById(&#39;l_content&#39;);if(lc.className.match(/\bshow-toc\b/)){if(window.SSP&amp;&amp;window.App&amp;&amp;App.Viewport&amp;&amp;App.Viewport.hasShift&amp;&amp;App.Viewport.hasShift()&amp;&amp;App.Viewport.adjustLayout){App.Viewport.adjustLayout()}lc.className=lc.className.replace(/\bshow-toc\b/,&#39;&#39;)}else if(lc.className.match(/\bhide-toc\b/)){lc.className=lc.className.replace(/\bhide-toc\b/,&#39;&#39;)}else{lc.className+=&#39; hide-toc&#39;}" style="display:" src=""><div id="toc_button_hide" title="Скрыть оглавление"></div><div id="toc_button_show" title="Показать оглавление"></div><noscript><style>#w_metadata_toc_button{display:none!important}</style></noscript></div><div id="l_toc_inner" class="l metadata-spacer native_scroll view-hideable view-expandable " style="overflow: hidden;"><div class="thin_scroll_corner" style="width: 17px; height: 17px; display: none;"></div><div class="thin_scroll_bar_v" style="width: 17px; display: block; bottom: 0px;"><div class="thin_scroll_thumb_v" style="display: block; height: 419.427px; transform: translate(0px, 0px);"></div></div><div class="thin_scroll_bar_h" style="height: 17px; display: none; right: 0px;"><div class="thin_scroll_thumb_h" style="display: none; width: 66px; transform: translate(-66px, 0px);"></div></div><div class="" style="position: absolute; inset: 0px -17px 0px 0px; overflow: auto; padding-right: 17px; overscroll-behavior: contain;"><div style="position: relative;"><div style="position: absolute; inset: 0px; overflow: auto; z-index: -1; visibility: hidden;"><div style="position: absolute; left: 0px; top: 0px; width: 999999px; height: 999999px;"></div></div><div style="position: absolute; inset: 0px; overflow: auto; z-index: -1; visibility: hidden;"><div style="position: absolute; left: 0px; top: 0px; width: 200%; height: 200%;"></div></div><div id="w_metadata_toc" class="w mimic_scroll" data-url="/db/metadata/bizlegsup/toc/1_?_=1770133774" data-book="" data-deferred-media-query="(max-width: 991px)" style="overflow: visible;" src="/db/metadata/bizlegsup/toc/1_?_=1770133774"><ul class="tree top mixed active"><li class="expanded icon1 active" id="toc_1"><a href="https://its.1c.ru/db/bizlegsup" target="_top">Бизнес-справочник: правовые аспекты</a><ul class="active"><li class="icon2" id="toc_2"><a href="https://its.1c.ru/db/bizlegsup/content/2/hdoc" target="_top">Новое в справочнике</a></li><li class="icon2" id="toc_5"><a href="https://its.1c.ru/db/bizlegsup/content/5/hdoc" target="_top">Что выгоднее: зарегистрироваться в качестве индивидуального предпринимателя или открыть ООО?</a></li><li class="icon2 expanded active" id="toc_247"><a href="https://its.1c.ru/db/bizlegsup/content/247/hdoc" target="_top">Защита персональных данных</a><ul class=""><li class="icon2" id="toc_248"><a href="https://its.1c.ru/db/bizlegsup/content/248/hdoc" target="_top">Получение персональных данных</a></li><li class="icon2 expanded" id="toc_249"><a href="https://its.1c.ru/db/bizlegsup/content/249/hdoc" target="_top">Согласие на обработку персональных данных</a><ul><li class="collapsed icon2" id="toc_261"><a href="https://its.1c.ru/db/bizlegsup/content/261/hdoc" target="_top">Согласие на обработку персональных данных без их распространения</a><ul><li class="icon5" id="toc_250"><a href="https://its.1c.ru/db/bizlegsup/content/250/hdoc" target="_top">Нужно ли брать согласие на обработку персональных данных у работников контрагента?</a></li></ul></li><li class="icon2" id="toc_251"><a href="https://its.1c.ru/db/bizlegsup/content/251/hdoc" target="_top">Согласие на обработку персональных данных, разрешенных для распространения</a></li><li class="icon5" id="toc_252"><a href="https://its.1c.ru/db/bizlegsup/content/252/hdoc" target="_top">Нужно ли согласие работника на предоставление сведений о его зарплате банку или членам его семьи?</a></li></ul></li><li class="collapsed icon2" id="toc_253"><a href="https://its.1c.ru/db/bizlegsup/content/253/hdoc" target="_top">Уведомление Роскомнадзора об обработке персональных данных</a><ul><li class="icon2" id="toc_254"><a href="https://its.1c.ru/db/bizlegsup/content/254/hdoc" target="_top">Образец уведомления Роскомнадзора об обработке персональных данных</a></li><li class="icon2" id="toc_263"><a href="https://its.1c.ru/db/bizlegsup/content/263/hdoc" target="_top">Должен ли филиал организации уведомлять Роскомнадзор о намерении обрабатывать персональные данные?</a></li></ul></li><li class="icon2" id="toc_255"><a href="https://its.1c.ru/db/bizlegsup/content/255/hdoc" target="_top">Уведомление Роскомнадзора об утечке персональных данных</a></li><li class="icon2" id="toc_256"><a href="https://its.1c.ru/db/bizlegsup/content/256/hdoc" target="_top">Положение о персональных данных и иные документы</a></li><li class="collapsed icon2" id="toc_262"><a href="https://its.1c.ru/db/bizlegsup/content/262/hdoc" target="_top">Как организовать защиту персональных данных</a><ul><li class="icon2" id="toc_257"><a href="https://its.1c.ru/db/bizlegsup/content/257/hdoc" target="_top">Какие меры безопасности применяются при обработке персональных данных в информационных системах?</a></li></ul></li><li class="icon2" id="toc_258"><a href="https://its.1c.ru/db/bizlegsup/content/258/hdoc" target="_top">Ответственность за нарушение порядка обработки и хранения персональных данных</a></li><li class="collapsed icon2" id="toc_270"><a href="https://its.1c.ru/db/bizlegsup/content/270/hdoc" target="_top">Обезличивание персональных данных</a><ul><li class="icon2" id="toc_271"><a href="https://its.1c.ru/db/bizlegsup/content/271/hdoc" target="_top">Общий порядок обезличивания персональных данных</a></li><li class="icon2" id="toc_272"><a href="https://its.1c.ru/db/bizlegsup/content/272/hdoc" target="_top">Обезличивание персональных данных по запросу Минцифры России</a></li></ul></li></ul></li><li class="collapsed icon2" id="toc_239"><a href="https://its.1c.ru/db/bizlegsup/content/239/hdoc" target="_top">Налоги и взносы ИП</a><ul><li class="icon2" id="toc_134"><a href="https://its.1c.ru/db/bizlegsup/content/134/hdoc" target="_top">Налоговые каникулы для индивидуальных предпринимателей</a></li><li class="icon2" id="toc_127"><a href="https://its.1c.ru/db/bizlegsup/content/127/hdoc" target="_top">Какие налоги и взносы должен платить ИП на общей системе в 2026 году?</a></li><li class="icon2" id="toc_146"><a href="https://its.1c.ru/db/bizlegsup/content/146/hdoc" target="_top">Какие налоги и взносы должен платить ИП на УСН в 2026 году?</a></li><li class="icon2" id="toc_147"><a href="https://its.1c.ru/db/bizlegsup/content/147/hdoc" target="_top">Какие налоги и взносы должен платить ИП на ПСН в 2026 году?</a></li><li class="icon2" id="toc_240"><a href="https://its.1c.ru/db/bizlegsup/content/240/hdoc" target="_top">Уплата взносов и признание их в расходах ИП при применении разных СНО в 2025 году</a></li><li class="icon2" id="toc_237"><a href="https://its.1c.ru/db/bizlegsup/content/237/hdoc" target="_top">Уплата взносов и признание их в расходах ИП при применении разных СНО в 2024 году</a></li></ul></li><li class="collapsed icon2" id="toc_24"><a href="https://its.1c.ru/db/bizlegsup/content/24/hdoc" target="_top">Выбор системы налогообложения</a><ul><li class="icon2" id="toc_168"><a href="https://its.1c.ru/db/bizlegsup/content/168/hdoc" target="_top">Сравнение систем налогообложения</a></li><li class="icon2" id="toc_25"><a href="https://its.1c.ru/db/bizlegsup/content/25/hdoc" target="_top">Общая система налогообложения</a></li><li class="icon2" id="toc_26"><a href="https://its.1c.ru/db/bizlegsup/content/26/hdoc" target="_top">Упрощенная система налогообложения</a></li><li class="icon2" id="toc_27"><a href="https://its.1c.ru/db/bizlegsup/content/27/hdoc" target="_top">Патентная система налогообложения</a></li><li class="icon2" id="toc_29"><a href="https://its.1c.ru/db/bizlegsup/content/29/hdoc" target="_top">Единый сельскохозяйственный налог</a></li></ul></li><li class="collapsed icon2" id="toc_56"><a href="https://its.1c.ru/db/bizlegsup/content/56/hdoc" target="_top">Учреждение ООО</a><ul><li class="icon2" id="toc_66"><a href="https://its.1c.ru/db/bizlegsup/content/66/hdoc" target="_top">Уведомление уполномоченных органов о начале предпринимательской деятельности</a></li></ul></li><li class="collapsed icon2" id="toc_30"><a href="https://its.1c.ru/db/bizlegsup/content/30/hdoc" target="_top">Регистрация ООО</a><ul><li class="icon5" id="toc_35"><a href="https://its.1c.ru/db/bizlegsup/content/35/hdoc" target="_top">Можно ли зарегистрировать ООО по домашнему адресу учредителя (генерального директора)?</a></li><li class="icon5" id="toc_43"><a href="https://its.1c.ru/db/bizlegsup/content/43/hdoc" target="_top">Может ли ООО быть ликвидировано, если оно не находится по юридическому адресу?</a></li><li class="icon5" id="toc_44"><a href="https://its.1c.ru/db/bizlegsup/content/44/hdoc" target="_top">Нужно ли изменять юридический адрес, если директор, по месту жительства которого зарегистрировано ООО, утратил свои полномочия?</a></li><li class="icon5" id="toc_46"><a href="https://its.1c.ru/db/bizlegsup/content/46/hdoc" target="_top">Может ли директор (учредитель) сдать в аренду своему ООО принадлежащее ему помещение?</a></li><li class="icon5" id="toc_47"><a href="https://its.1c.ru/db/bizlegsup/content/47/hdoc" target="_top">Может ли банк закрыть счет ООО, если оно не находится по указанному адресу регистрации?</a></li><li class="icon5" id="toc_96"><a href="https://its.1c.ru/db/bizlegsup/content/96/hdoc" target="_top">Может ли инспекция отказать в регистрации ООО, если аналогичное название уже используется другой организацией с таким же видом деятельности?</a></li><li class="icon5" id="toc_125"><a href="https://its.1c.ru/db/bizlegsup/content/125/hdoc" target="_top">Может ли генеральный директор (руководитель исполнительного органа) ООО подать заявление о его регистрации?</a></li><li class="icon5" id="toc_163"><a href="https://its.1c.ru/db/bizlegsup/content/163/hdoc" target="_top">Как изменить код ОКВЭД?</a></li><li class="icon5" id="toc_166"><a href="https://its.1c.ru/db/bizlegsup/content/166/hdoc" target="_top">Как подать заявление о смене ОКВЭД?</a></li><li class="icon5" id="toc_221"><a href="https://its.1c.ru/db/bizlegsup/content/221/hdoc" target="_top">Как обжаловать отказ в регистрации организации или ИП, а также в регистрации изменений в ЕГРЮЛ и ЕГРИП?</a></li></ul></li><li class="collapsed icon2" id="toc_128"><a href="https://its.1c.ru/db/bizlegsup/content/128/hdoc" target="_top">Создание обособленного подразделения ООО</a><ul><li class="icon5" id="toc_129"><a href="https://its.1c.ru/db/bizlegsup/content/129/hdoc" target="_top">Возникает ли у ООО обособленное подразделение, если оно принимает на работу дистанционного сотрудника в другой местности?</a></li></ul></li><li class="icon2" id="toc_37"><a href="https://its.1c.ru/db/bizlegsup/content/37/hdoc" target="_top">Регистрация в качестве индивидуального предпринимателя</a></li><li class="collapsed icon2" id="toc_156"><a href="https://its.1c.ru/db/bizlegsup/content/156/hdoc" target="_top">Субъекты малого и среднего предпринимательства</a><ul><li class="icon2" id="toc_157"><a href="https://its.1c.ru/db/bizlegsup/content/157/hdoc" target="_top">Кто может быть субъектом малого и среднего предпринимательства</a></li><li class="icon2" id="toc_158"><a href="https://its.1c.ru/db/bizlegsup/content/158/hdoc" target="_top">Критерии отнесения к субъектам малого и среднего предпринимательства</a></li><li class="icon2" id="toc_159"><a href="https://its.1c.ru/db/bizlegsup/content/159/hdoc" target="_top">Какие льготы предусмотрены для субъектов малого и среднего предпринимательства?</a></li><li class="icon2" id="toc_160"><a href="https://its.1c.ru/db/bizlegsup/content/160/hdoc" target="_top">Как попасть в Единый реестр субъектов малого и среднего предпринимательства</a></li><li class="icon2" id="toc_165"><a href="https://its.1c.ru/db/bizlegsup/content/165/hdoc" target="_top">Как проверить, включены ли вы в Единый реестр МСП?</a></li></ul></li><li class="collapsed icon2" id="toc_130"><a href="https://its.1c.ru/db/bizlegsup/content/130/hdoc" target="_top">Место нахождения и адрес юридического лица</a><ul><li class="icon2" id="toc_36"><a href="https://its.1c.ru/db/bizlegsup/content/36/hdoc" target="_top">Изменение места нахождения ООО</a></li><li class="icon2" id="toc_133"><a href="https://its.1c.ru/db/bizlegsup/content/133/hdoc" target="_top">Изменение адреса ООО</a></li><li class="icon2" id="toc_245"><a href="https://its.1c.ru/db/bizlegsup/content/245/hdoc" target="_top">Что будет, если в ЕГРЮЛ указан неверный адрес организации?</a></li></ul></li><li class="icon2" id="toc_31"><a href="https://its.1c.ru/db/bizlegsup/content/31/hdoc" target="_top">Постановка организации (ИП) на учет во внебюджетных фондах</a></li><li class="icon2" id="toc_32"><a href="https://its.1c.ru/db/bizlegsup/content/32/hdoc" target="_top">Постановка на учет организации (ИП) в органах статистики</a></li><li class="collapsed icon2" id="toc_34"><a href="https://its.1c.ru/db/bizlegsup/content/34/hdoc" target="_top">Использование печати</a><ul><li class="icon5" id="toc_137"><a href="https://its.1c.ru/db/bizlegsup/content/137/hdoc" target="_top">Нужно ли ставить печать на первичной учетной документации?</a></li><li class="icon5" id="toc_236"><a href="https://its.1c.ru/db/bizlegsup/content/236/hdoc" target="_top">Должна ли организация заверять договоры печатью?</a></li></ul></li><li class="icon2" id="toc_33"><a href="https://its.1c.ru/db/bizlegsup/content/33/hdoc" target="_top">Открытие счета в банке</a></li><li class="collapsed icon2" id="toc_274"><a href="https://its.1c.ru/db/bizlegsup/content/274/hdoc" target="_top">Блокировка счета банком</a><ul><li class="icon2" id="toc_187"><a href="https://its.1c.ru/db/bizlegsup/content/187/hdoc" target="_top">Что делать, если банк заблокировал счет?</a></li><li class="collapsed icon5" id="toc_275"><a href="https://its.1c.ru/db/bizlegsup/content/275/hdoc" target="_top">За что физическому лицу могут заблокировать карту или счет в банке?</a><ul><li class="icon2" id="toc_276"><a href="https://its.1c.ru/db/bizlegsup/content/276/hdoc" target="_top">Ограничения при подозрительных безналичных переводах</a></li><li class="icon2" id="toc_277"><a href="https://its.1c.ru/db/bizlegsup/content/277/hdoc" target="_top">Ограничения при снятии наличных в банкомате</a></li><li class="icon2" id="toc_278"><a href="https://its.1c.ru/db/bizlegsup/content/278/hdoc" target="_top">Ограничения при попадании в базу данных Банка России</a></li><li class="icon2" id="toc_279"><a href="https://its.1c.ru/db/bizlegsup/content/279/hdoc" target="_top">Как избежать ограничений на переводы и блокировок счетов</a></li></ul></li></ul></li><li class="collapsed icon2" id="toc_54"><a href="https://its.1c.ru/db/bizlegsup/content/54/hdoc" target="_top">Лицензирование деятельности</a><ul><li class="collapsed icon2" id="toc_55"><a href="https://its.1c.ru/db/bizlegsup/content/55/hdoc" target="_top">Как получить лицензию</a><ul><li class="icon5" id="toc_59"><a href="https://its.1c.ru/db/bizlegsup/content/59/hdoc" target="_top">Можно ли получить лицензию на розничную торговлю алкогольной продукцией, если торговое (складское) помещение взято в субаренду?</a></li><li class="icon5" id="toc_67"><a href="https://its.1c.ru/db/bizlegsup/content/67/hdoc" target="_top">Можно ли получить лицензию на розничную торговлю алкогольной продукцией, если договор аренды торгового (складского) помещения заключен на неопределенный срок?</a></li></ul></li><li class="icon2" id="toc_57"><a href="https://its.1c.ru/db/bizlegsup/content/57/hdoc" target="_top">Внесение изменений в лицензию</a></li><li class="icon2" id="toc_69"><a href="https://its.1c.ru/db/bizlegsup/content/69/hdoc" target="_top">Приостановление и возобновление действия лицензии</a></li><li class="icon2" id="toc_68"><a href="https://its.1c.ru/db/bizlegsup/content/68/hdoc" target="_top">Прекращение действия лицензии</a></li></ul></li><li class="collapsed icon2" id="toc_93"><a href="https://its.1c.ru/db/bizlegsup/content/93/hdoc" target="_top">Как оформить доверенность от лица организации (предпринимателя)</a><ul><li class="icon5" id="toc_95"><a href="https://its.1c.ru/db/bizlegsup/content/95/hdoc" target="_top">Прекращается ли действие доверенности со смертью подписавшего ее директора организации?</a></li><li class="icon5" id="toc_94"><a href="https://its.1c.ru/db/bizlegsup/content/94/hdoc" target="_top">Прекращается ли действие доверенности, если подписавший ее директор утратил свои полномочия?</a></li><li class="icon5" id="toc_98"><a href="https://its.1c.ru/db/bizlegsup/content/98/hdoc" target="_top">Может ли организация отозвать нотариальную доверенность, направив представителю уведомление, не заверенное нотариально?</a></li><li class="icon5" id="toc_97"><a href="https://its.1c.ru/db/bizlegsup/content/97/hdoc" target="_top">Может ли организация выдать доверенность на получение ТМЦ и подписание первичных документов лицу, не являющемуся ее работником?</a></li><li class="icon5" id="toc_106"><a href="https://its.1c.ru/db/bizlegsup/content/106/hdoc" target="_top">Должен ли предприниматель заверять нотариально доверенность на представление его интересов в налоговых правоотношениях?</a></li></ul></li><li class="collapsed icon1" id="toc_170"><a href="https://its.1c.ru/db/bizlegsup/content/170/hdoc" target="_top">Управление ООО</a><ul><li class="collapsed icon2" id="toc_61"><a href="https://its.1c.ru/db/bizlegsup/content/61/hdoc" target="_top">Назначение генерального директора при создании ООО</a><ul><li class="icon5" id="toc_154"><a href="https://its.1c.ru/db/bizlegsup/content/154/hdoc" target="_top">Вправе ли участник ООО, не являющийся его директором, подписывать коммерческие документы от лица общества?</a></li></ul></li><li class="icon2" id="toc_268"><a href="https://its.1c.ru/db/bizlegsup/content/268/hdoc" target="_top">Продление полномочий генерального директора ООО</a></li><li class="collapsed icon2" id="toc_104"><a href="https://its.1c.ru/db/bizlegsup/content/104/hdoc" target="_top">Смена генерального директора</a><ul><li class="icon5" id="toc_45"><a href="https://its.1c.ru/db/bizlegsup/content/45/hdoc" target="_top">Может ли новый директор действовать от имени ООО, если запись о смене директора не внесена в ЕГРЮЛ?</a></li><li class="icon5" id="toc_152"><a href="https://its.1c.ru/db/bizlegsup/content/152/hdoc" target="_top">Нужно ли ООО после смены директора перезаключать договоры, заключенные ранее?</a></li></ul></li><li class="icon2" id="toc_123"><a href="https://its.1c.ru/db/bizlegsup/content/123/hdoc" target="_top">Совет директоров в ООО</a></li><li class="collapsed icon2" id="toc_115"><a href="https://its.1c.ru/db/bizlegsup/content/115/hdoc" target="_top">Передача полномочий генерального директора управляющей компании (управляющему)</a><ul><li class="icon5" id="toc_117"><a href="https://its.1c.ru/db/bizlegsup/content/117/hdoc" target="_top">Можно ли передать полномочия генерального директора управляющей компании (управляющему) до регистрации ООО (при его учреждении)?</a></li><li class="icon5" id="toc_118"><a href="https://its.1c.ru/db/bizlegsup/content/118/hdoc" target="_top">Можно ли передать управляющей компании (управляющему) полномочия директора частично?</a></li></ul></li></ul></li><li class="collapsed icon1" id="toc_177"><a href="https://its.1c.ru/db/bizlegsup/content/177/hdoc" target="_top">Учредители и участники ООО</a><ul><li class="collapsed icon2" id="toc_70"><a href="https://its.1c.ru/db/bizlegsup/content/70/hdoc" target="_top">Общее собрание участников ООО</a><ul><li class="icon2" id="toc_71"><a href="https://its.1c.ru/db/bizlegsup/content/71/hdoc" target="_top">Как провести очередное общее собрание участников ООО в очной форме (заседание)</a></li><li class="icon2" id="toc_72"><a href="https://its.1c.ru/db/bizlegsup/content/72/hdoc" target="_top">Как провести внеочередное общее собрание участников ООО в очной форме</a></li><li class="icon2" id="toc_265"><a href="https://its.1c.ru/db/bizlegsup/content/265/hdoc" target="_top">Общее собрание участников ООО в дистанционной форме</a></li><li class="icon2" id="toc_266"><a href="https://its.1c.ru/db/bizlegsup/content/266/hdoc" target="_top">Общее собрание участников ООО с заочным голосованием</a></li><li class="icon2" id="toc_267"><a href="https://its.1c.ru/db/bizlegsup/content/267/hdoc" target="_top">Общее собрание участников ООО с очно-заочным голосованием</a></li><li class="icon5" id="toc_73"><a href="https://its.1c.ru/db/bizlegsup/content/73/hdoc" target="_top">Можно ли признать недействительным решение общего собрания ООО, если копии протокола разосланы с нарушением срока?</a></li><li class="icon5" id="toc_92"><a href="https://its.1c.ru/db/bizlegsup/content/92/hdoc" target="_top">Можно ли обязать ООО провести внеочередное общее собрание, если соответствующее требование его участника проигнорировано?</a></li></ul></li><li class="collapsed icon2" id="toc_109"><a href="https://its.1c.ru/db/bizlegsup/content/109/hdoc" target="_top">Исключение участника из ООО</a><ul><li class="icon5" id="toc_110"><a href="https://its.1c.ru/db/bizlegsup/content/110/hdoc" target="_top">Можно ли исключить члена ООО, если он не участвует в общих собраниях?</a></li><li class="icon5" id="toc_111"><a href="https://its.1c.ru/db/bizlegsup/content/111/hdoc" target="_top">Можно ли исключить из ООО участника, если он осужден к реальному лишению свободы?</a></li><li class="icon5" id="toc_112"><a href="https://its.1c.ru/db/bizlegsup/content/112/hdoc" target="_top">Можно ли исключить из ООО участника, если его доля превышает 50 процентов?</a></li><li class="icon5" id="toc_114"><a href="https://its.1c.ru/db/bizlegsup/content/114/hdoc" target="_top">Можно ли исключить из ООО участника – генерального директора, причинившего ущерб обществу?</a></li><li class="icon5" id="toc_113"><a href="https://its.1c.ru/db/bizlegsup/content/113/hdoc" target="_top">Можно ли исключить участника из ООО, если он не в полном объеме оплатил долю в уставном капитале?</a></li></ul></li><li class="icon2" id="toc_145"><a href="https://its.1c.ru/db/bizlegsup/content/145/hdoc" target="_top">Выход участника из ООО на основании заявления</a></li><li class="icon2" id="toc_171"><a href="https://its.1c.ru/db/bizlegsup/content/171/hdoc" target="_top">Смерть единственного участника ООО</a></li><li class="collapsed icon2" id="toc_241"><a href="https://its.1c.ru/db/bizlegsup/content/241/hdoc" target="_top">Смена участника ООО</a><ul><li class="icon2" id="toc_242"><a href="https://its.1c.ru/db/bizlegsup/content/242/hdoc" target="_top">Смена участника ООО при продаже доли третьему лицу</a></li><li class="icon2" id="toc_243"><a href="https://its.1c.ru/db/bizlegsup/content/243/hdoc" target="_top">Смена участника ООО при наследовании доли</a></li><li class="icon2" id="toc_244"><a href="https://its.1c.ru/db/bizlegsup/content/244/hdoc" target="_top">Смена участника ООО при дарении, мене или соглашении об отступном</a></li></ul></li></ul></li><li class="icon2" id="toc_124"><a href="https://its.1c.ru/db/bizlegsup/content/124/hdoc" target="_top">Внесение изменений в Устав ООО</a></li><li class="collapsed icon2" id="toc_138"><a href="https://its.1c.ru/db/bizlegsup/content/138/hdoc" target="_top">Увеличение уставного капитала ООО</a><ul><li class="icon2" id="toc_139"><a href="https://its.1c.ru/db/bizlegsup/content/139/hdoc" target="_top">Увеличение уставного капитала ООО за счет имущества общества</a></li><li class="icon2" id="toc_141"><a href="https://its.1c.ru/db/bizlegsup/content/141/hdoc" target="_top">Увеличение уставного капитала ООО за счет дополнительных вкладов всех участников</a></li><li class="icon2" id="toc_142"><a href="https://its.1c.ru/db/bizlegsup/content/142/hdoc" target="_top">Увеличение уставного капитала ООО за счет дополнительного вклада некоторых участников (по их заявлениям)</a></li><li class="icon2" id="toc_143"><a href="https://its.1c.ru/db/bizlegsup/content/143/hdoc" target="_top">Увеличение уставного капитала ООО за счет вклада третьего лица (по его заявлению)</a></li></ul></li><li class="icon2" id="toc_264"><a href="https://its.1c.ru/db/bizlegsup/content/264/hdoc" target="_top">Уменьшение уставного капитала ООО</a></li><li class="collapsed icon2" id="toc_38"><a href="https://its.1c.ru/db/bizlegsup/content/38/hdoc" target="_top">Чистая прибыль ООО и ее распределение между участниками</a><ul><li class="collapsed icon2" id="toc_39"><a href="https://its.1c.ru/db/bizlegsup/content/39/hdoc" target="_top">Порядок распределения чистой прибыли ООО</a><ul><li class="icon2" id="toc_39_issogl1101"><a href="https://its.1c.ru/db/content/bizlegsup/src/2100100_%D1%82_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5.htm#issogl1101">Принятие решения о распределении прибыли</a></li><li class="icon2" id="toc_39_issogl1102"><a href="https://its.1c.ru/db/content/bizlegsup/src/2100100_%D1%82_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5.htm#issogl1102">Оформление решения о распределении прибыли</a></li><li class="icon2" id="toc_39_issogl1103"><a href="https://its.1c.ru/db/content/bizlegsup/src/2100100_%D1%82_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5.htm#issogl1103">Ограничения на принятие решения о распределении чистой прибыли ООО</a></li><li class="icon5" id="toc_6"><a href="https://its.1c.ru/db/bizlegsup/content/6/hdoc" target="_top">Можно ли принять решение о распределении в текущем году нераспределенной прибыли прошлых лет?</a></li><li class="icon5" id="toc_7"><a href="https://its.1c.ru/db/bizlegsup/content/7/hdoc" target="_top">Можно ли выдать учредителю из кассы наличную выручку в счет выплаты чистой прибыли?</a></li><li class="icon5" id="toc_60"><a href="https://its.1c.ru/db/bizlegsup/content/60/hdoc" target="_top">Может ли новый участник, целиком купивший ООО, распределить чистую прибыль, полученную обществом до выкупа?</a></li><li class="icon5" id="toc_214"><a href="https://its.1c.ru/db/bizlegsup/content/214/hdoc" target="_top">На какие цели можно расходовать нераспределенную прибыль?</a></li></ul></li><li class="collapsed icon2" id="toc_8"><a href="https://its.1c.ru/db/bizlegsup/content/8/hdoc" target="_top">Порядок выплаты чистой прибыли ООО участникам (исполнения решения о распределении)</a><ul><li class="icon5" id="toc_9"><a href="https://its.1c.ru/db/bizlegsup/content/9/hdoc" target="_top">Можно ли выплатить чистую прибыль участникам из кассы?</a></li><li class="icon5" id="toc_10"><a href="https://its.1c.ru/db/bizlegsup/content/10/hdoc" target="_top">Можно ли выплатить прибыль участникам ООО имуществом?</a></li></ul></li><li class="collapsed icon2" id="toc_11"><a href="https://its.1c.ru/db/bizlegsup/content/11/hdoc" target="_top">Налогообложение выплат участникам ООО</a><ul><li class="icon6" id="toc_12"><a href="https://its.1c.ru/db/bizlegsup/content/12/hdoc" target="_top">Налогообложение сумм, признаваемых дивидендами</a></li><li class="icon6" id="toc_13"><a href="https://its.1c.ru/db/bizlegsup/content/13/hdoc" target="_top">Налогообложение сумм, не признаваемых дивидендами</a></li><li class="icon5" id="toc_23"><a href="https://its.1c.ru/db/bizlegsup/content/23/hdoc" target="_top">Как при реорганизации в форме присоединения определить период владения долей в УК организации, выплачивающей дивиденды?</a></li><li class="icon5" id="toc_62"><a href="https://its.1c.ru/db/bizlegsup/content/62/hdoc" target="_top">Можно ли учесть проценты по займу, взятому для выплаты дивидендов, в расходах?</a></li><li class="icon5" id="toc_105"><a href="https://its.1c.ru/db/bizlegsup/content/105/hdoc" target="_top">Как при реорганизации в форме преобразования определить период владения долей в УК организации, выплачивающей дивиденды?</a></li><li class="icon5" id="toc_135"><a href="https://its.1c.ru/db/bizlegsup/content/135/hdoc" target="_top">Должна ли организация удерживать НДФЛ при увеличении уставного капитала ООО за счет нераспределенной прибыли?</a></li></ul></li></ul></li><li class="collapsed icon2" id="toc_64"><a href="https://its.1c.ru/db/bizlegsup/content/64/hdoc" target="_top">Предоставление информации и документов, связанных с деятельностью ООО</a><ul><li class="icon5" id="toc_65"><a href="https://its.1c.ru/db/bizlegsup/content/65/hdoc" target="_top">В какой срок ООО должно предоставить копии документов, запрошенные участником?</a></li><li class="icon5" id="toc_107"><a href="https://its.1c.ru/db/bizlegsup/content/107/hdoc" target="_top">Должно ли ООО предоставлять по требованию участника заверенные копии документов?</a></li><li class="icon5" id="toc_108"><a href="https://its.1c.ru/db/bizlegsup/content/108/hdoc" target="_top">Может ли ООО отказать участнику в предоставлении информации и документов, если он – сотрудник организации-конкурента?</a></li></ul></li><li class="collapsed icon2" id="toc_172"><a href="https://its.1c.ru/db/bizlegsup/content/172/hdoc" target="_top">Соблюдение санитарных норм и правил</a><ul><li class="collapsed icon2" id="toc_178"><a href="https://its.1c.ru/db/bizlegsup/content/178/hdoc" target="_top">Обязательные санитарные правила для рынков и магазинов</a><ul><li class="icon2" id="toc_179"><a href="https://its.1c.ru/db/bizlegsup/content/179/hdoc" target="_top">Требования к стационарным торговым объектам</a></li><li class="icon2" id="toc_180"><a href="https://its.1c.ru/db/bizlegsup/content/180/hdoc" target="_top">Требования к нестационарным торговым объектам при организации мелкорозничной торговли и ярмарок</a></li><li class="icon2" id="toc_181"><a href="https://its.1c.ru/db/bizlegsup/content/181/hdoc" target="_top">Общие требования к стационарным и нестационарным торговым объектам к содержанию территории, помещений, инвентаря и оборудования</a></li><li class="icon2" id="toc_182"><a href="https://its.1c.ru/db/bizlegsup/content/182/hdoc" target="_top">Требования к личной гигиене работников торговых объектов</a></li><li class="icon2" id="toc_183"><a href="https://its.1c.ru/db/bizlegsup/content/183/hdoc" target="_top">Ответственность за несоблюдение санитарных правил</a></li></ul></li><li class="collapsed icon1" id="toc_190"><a href="https://its.1c.ru/db/bizlegsup/content/190/hdoc" target="_top">Обязательные санитарные правила для организаций общественного питания</a><ul><li class="icon2" id="toc_191"><a href="https://its.1c.ru/db/bizlegsup/content/191/hdoc" target="_top">Общие требования для организаций общественного питания</a></li><li class="icon2" id="toc_205"><a href="https://its.1c.ru/db/bizlegsup/content/205/hdoc" target="_top">Требования к производственным помещениям</a></li><li class="icon2" id="toc_192"><a href="https://its.1c.ru/db/bizlegsup/content/192/hdoc" target="_top">Требования к приготовлению пищевой продукции</a></li><li class="icon2" id="toc_193"><a href="https://its.1c.ru/db/bizlegsup/content/193/hdoc" target="_top">Требования к хранению пищевой продукции</a></li><li class="icon2" id="toc_194"><a href="https://its.1c.ru/db/bizlegsup/content/194/hdoc" target="_top">Порядок реализации пищевой продукции</a></li><li class="icon2" id="toc_195"><a href="https://its.1c.ru/db/bizlegsup/content/195/hdoc" target="_top">Правила доставки готовой продукции потребителю</a></li><li class="icon2" id="toc_196"><a href="https://its.1c.ru/db/bizlegsup/content/196/hdoc" target="_top">Требования к мытью посуды</a></li><li class="icon2" id="toc_197"><a href="https://its.1c.ru/db/bizlegsup/content/197/hdoc" target="_top">Правила уборки помещений на предприятиях общественного питания</a></li><li class="icon2" id="toc_198"><a href="https://its.1c.ru/db/bizlegsup/content/198/hdoc" target="_top">Требования к персоналу на предприятиях общественного питания</a></li><li class="icon2" id="toc_199"><a href="https://its.1c.ru/db/bizlegsup/content/199/hdoc" target="_top">Особенности организации кейтеринга</a></li><li class="icon2" id="toc_200"><a href="https://its.1c.ru/db/bizlegsup/content/200/hdoc" target="_top">Организация питания в медицинских учреждениях</a></li><li class="icon2" id="toc_201"><a href="https://its.1c.ru/db/bizlegsup/content/201/hdoc" target="_top">Организация питания в организациях социального обслуживания</a></li><li class="icon2" id="toc_202"><a href="https://its.1c.ru/db/bizlegsup/content/202/hdoc" target="_top">Организация питания детей</a></li><li class="icon2" id="toc_203"><a href="https://its.1c.ru/db/bizlegsup/content/203/hdoc" target="_top">Организация дополнительного питания детей</a></li><li class="icon2" id="toc_204"><a href="https://its.1c.ru/db/bizlegsup/content/204/hdoc" target="_top">Ответственность за несоблюдение санитарных правил</a></li></ul></li></ul></li><li class="collapsed icon2" id="toc_119"><a href="https://its.1c.ru/db/bizlegsup/content/119/hdoc" target="_top">Крупные сделки</a><ul><li class="icon5" id="toc_120"><a href="https://its.1c.ru/db/bizlegsup/content/120/hdoc" target="_top">Как3020400ие сделки признаются совершенными в рамках обычной хозяйственной деятельности?</a></li><li class="icon5" id="toc_121"><a href="https://its.1c.ru/db/bizlegsup/content/121/hdoc" target="_top">Нужно ли получать одобрение для изменения условий уже одобренной крупной сделки?</a></li></ul></li><li class="collapsed icon2" id="toc_18"><a href="https://its.1c.ru/db/bizlegsup/content/18/hdoc" target="_top">Контролируемые сделки</a><ul><li class="collapsed icon2" id="toc_19"><a href="https://its.1c.ru/db/bizlegsup/content/19/hdoc" target="_top">Какие лица признаются взаимозависимыми?</a><ul><li class="icon2" id="toc_19_issogl1_1"><a href="https://its.1c.ru/db/content/bizlegsup/src/3020100_%D1%82_%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D1%8B%D0%B5.htm#issogl1_1">Порядок определения доли участия</a></li></ul></li><li class="icon2" id="toc_20"><a href="https://its.1c.ru/db/bizlegsup/content/20/hdoc" target="_top">Какие сделки признаются контролируемыми?</a></li><li class="icon2" id="toc_21"><a href="https://its.1c.ru/db/bizlegsup/content/21/hdoc" target="_top">Последствия совершения контролируемых сделок</a></li><li class="collapsed icon2" id="toc_22"><a href="https://its.1c.ru/db/bizlegsup/content/22/hdoc" target="_top">Проверка цен по сделкам на их соответствие рыночным</a><ul><li class="icon5" id="toc_48"><a href="https://its.1c.ru/db/bizlegsup/content/48/hdoc" target="_top">Вправе ли инспекция проверить цены по сделкам, которые не признаются контролируемыми, но совершены между взаимозависимыми лицами?</a></li><li class="icon5" id="toc_144"><a href="https://its.1c.ru/db/bizlegsup/content/144/hdoc" target="_top">Может ли инспекция оштрафовать за непредставление уведомления о контролируемой сделке?</a></li></ul></li></ul></li><li class="collapsed icon2" id="toc_223"><a href="https://its.1c.ru/db/bizlegsup/content/223/hdoc" target="_top">Ликвидация ООО</a><ul><li class="icon2" id="toc_246"><a href="https://its.1c.ru/db/bizlegsup/content/246/hdoc" target="_top">Упрощенное банкротство отсутствующего должника</a></li><li class="icon2" id="toc_224"><a href="https://its.1c.ru/db/bizlegsup/content/224/hdoc" target="_top">Добровольная ликвидация ООО</a></li><li class="icon2" id="toc_225"><a href="https://its.1c.ru/db/bizlegsup/content/225/hdoc" target="_top">Ликвидация ООО по решению ФНС России</a></li><li class="collapsed icon2" id="toc_269"><a href="https://its.1c.ru/db/bizlegsup/content/269/hdoc" target="_top">Упрощенная ликвидация субъектов МСП</a><ul><li class="icon2" id="toc_273"><a href="https://its.1c.ru/db/bizlegsup/content/273/hdoc" target="_top">Какую отчетность и когда сдавать субъекту МСП при упрощенной ликвидации?</a></li></ul></li></ul></li><li class="collapsed icon2" id="toc_41"><a href="https://its.1c.ru/db/bizlegsup/content/41/hdoc" target="_top">Прекращение деятельности индивидуального предпринимателя</a><ul><li class="icon5" id="toc_151"><a href="https://its.1c.ru/db/bizlegsup/content/151/hdoc" target="_top">Правомерно ли проведение налоговой проверки в отношении индивидуального предпринимателя, прекратившего деятельность?</a></li><li class="icon5" id="toc_238"><a href="https://its.1c.ru/db/bizlegsup/content/238/hdoc" target="_top">Исключение ИП из ЕГРИП по инициативе ФНС России</a></li></ul></li><li class="collapsed icon2" id="toc_230"><a href="https://its.1c.ru/db/bizlegsup/content/230/hdoc" target="_top">Реорганизация ООО</a><ul><li class="icon2" id="toc_231"><a href="https://its.1c.ru/db/bizlegsup/content/231/hdoc" target="_top">Реорганизация ООО в форме слияния</a></li><li class="icon2" id="toc_232"><a href="https://its.1c.ru/db/bizlegsup/content/232/hdoc" target="_top">Реорганизация ООО в форме присоединения</a></li><li class="icon2" id="toc_233"><a href="https://its.1c.ru/db/bizlegsup/content/233/hdoc" target="_top">Реорганизация ООО в форме разделения</a></li><li class="icon2" id="toc_234"><a href="https://its.1c.ru/db/bizlegsup/content/234/hdoc" target="_top">Реорганизация ООО в форме выделения</a></li><li class="icon2" id="toc_235"><a href="https://its.1c.ru/db/bizlegsup/content/235/hdoc" target="_top">Реорганизация ООО в форме преобразования</a></li></ul></li><li class="collapsed icon2" id="toc_184"><a href="https://its.1c.ru/db/bizlegsup/content/184/hdoc" target="_top">Проверки</a><ul><li class="collapsed icon2" id="toc_185"><a href="https://its.1c.ru/db/bizlegsup/content/185/hdoc" target="_top">Проверки в рамках муниципального и государственного контроля</a><ul><li class="icon2" id="toc_186"><a href="https://its.1c.ru/db/bizlegsup/content/186/hdoc" target="_top">Как проводится контрольная закупка?</a></li><li class="icon2" id="toc_206"><a href="https://its.1c.ru/db/bizlegsup/content/206/hdoc" target="_top">Как проводится мониторинговая закупка?</a></li><li class="icon2" id="toc_207"><a href="https://its.1c.ru/db/bizlegsup/content/207/hdoc" target="_top">Как проводится выборочный контроль?</a></li><li class="icon2" id="toc_208"><a href="https://its.1c.ru/db/bizlegsup/content/208/hdoc" target="_top">Как проводится инспекционный визит?</a></li><li class="icon2" id="toc_209"><a href="https://its.1c.ru/db/bizlegsup/content/209/hdoc" target="_top">Как проводится рейдовый осмотр?</a></li><li class="icon2" id="toc_210"><a href="https://its.1c.ru/db/bizlegsup/content/210/hdoc" target="_top">Как проводится документарная проверка?</a></li><li class="icon2" id="toc_211"><a href="https://its.1c.ru/db/bizlegsup/content/211/hdoc" target="_top">Как проводится выездная проверка?</a></li><li class="icon2" id="toc_212"><a href="https://its.1c.ru/db/bizlegsup/content/212/hdoc" target="_top">Как проводится наблюдение за соблюдением обязательных требований (мониторинг безопасности)?</a></li><li class="icon2" id="toc_213"><a href="https://its.1c.ru/db/bizlegsup/content/213/hdoc" target="_top">Как проводится выездное обследование?</a></li></ul></li><li class="collapsed icon2" id="toc_188"><a href="https://its.1c.ru/db/bizlegsup/content/188/hdoc" target="_top">Налоговые проверки</a><ul><li class="icon2" id="toc_189"><a href="https://its.1c.ru/db/bizlegsup/content/189/hdoc" target="_top">Какие требования налоговой инспекции законны?</a></li><li class="icon2" id="toc_217"><a href="https://its.1c.ru/db/bizlegsup/content/217/hdoc" target="_top">Какая ответственность грозит за неисполнение требования о представлении документов, выставленного в соответствии со ст. 88 НК РФ?</a></li><li class="icon2" id="toc_218"><a href="https://its.1c.ru/db/bizlegsup/content/218/hdoc" target="_top">Какая ответственность грозит за неисполнение требования о представлении документов, выставленного в соответствии со ст. 93 НК РФ?</a></li><li class="icon2" id="toc_220"><a href="https://its.1c.ru/db/bizlegsup/content/220/hdoc" target="_top">Какая ответственность грозит за неисполнение требования о представлении документов, выставленного в соответствии со ст. 93.1 НК РФ?</a></li></ul></li></ul></li><li class="collapsed icon2" id="toc_149"><a href="https://its.1c.ru/db/bizlegsup/content/149/hdoc" target="_top">Оформление путевого листа</a><ul><li class="icon5" id="toc_229"><a href="https://its.1c.ru/db/bizlegsup/content/229/hdoc" target="_top">Обязан ли предприниматель проходить предрейсовый и послерейсовый медосмотр?</a></li></ul></li><li class="collapsed icon2" id="toc_280"><a href="https://its.1c.ru/db/bizlegsup/content/280/hdoc" target="_top">Маркировка интернет-рекламы и рекламный сбор</a><ul><li class="icon5" id="toc_281"><a href="https://its.1c.ru/db/bizlegsup/content/281/hdoc" target="_top">Какая информация считается интернет-рекламой?</a></li><li class="icon2" id="toc_282"><a href="https://its.1c.ru/db/bizlegsup/content/282/hdoc" target="_top">Маркировка рекламы в интернете</a></li><li class="collapsed icon2" id="toc_283"><a href="https://its.1c.ru/db/bizlegsup/content/283/hdoc" target="_top">Рекламный сбор</a><ul><li class="icon5" id="toc_284"><a href="https://its.1c.ru/db/bizlegsup/content/284/hdoc" target="_top">Кто уплачивает рекламный сбор?</a></li><li class="icon5" id="toc_285"><a href="https://its.1c.ru/db/bizlegsup/content/285/hdoc" target="_top">Когда рекламный сбор не уплачивается?</a></li><li class="icon5" id="toc_286"><a href="https://its.1c.ru/db/bizlegsup/content/286/hdoc" target="_top">Как рассчитывается и уплачивается рекламный сбор?</a></li><li class="icon2" id="toc_287"><a href="https://its.1c.ru/db/bizlegsup/content/287/hdoc" target="_top">Мониторинг уплаты рекламного сбора и ответственность за его неуплату</a></li></ul></li></ul></li></ul></li></ul></div></div></div></div></div></div></div><div id="l_search" class="l" style="display:none"></div><div id="l_extended_search" class="l" style="display:none"></div><div id="w_metadata_section" class="w" src="null"><div id="database_menu_section" data-section="law/other" style="display:none"></div>
+</div><script type="text/javascript">
+	deferred.push(function()
+	{
+		App.Search.chatbotJs = 'https://portalchat.1c.ai/chatbot/widget/widget.js';
+		App.Search.chatbotCss = 'https://portalchat.1c.ai/chatbot/widget/style.css';
+
+		SSP.Bus.init(
+			'/db/',
+			['browse', 'content', 'bookmark', 'search', 'extsearch'],
+			App.Its.Router,
+			{"w_metadata_toc":{"5":{"listen":[{"event":"mouseover","callback":"App.Its.Handler.tocMouseOver"},{"event":"click","callback":"App.Its.Handler.tocClick"},{"event":"click","callback":"SSP.Tree.handleClick"}],"trigger":[]},"3":{"select":["toc_256"]}},"w_metadata_toc_button":{"5":{"listen":[{"event":"click","callback":"App.Its.Handler.tocButtonClick"}],"trigger":[]},"3":{"reload":[null]}},"w_metadata_doc_frame":{"5":{"listen":[{"event":"DOMContentLoaded","callback":"App.Its.Handler.docFrameDOMContentLoaded"}],"trigger":[]}},"w_title":{"3":{"reload":[null]}},"w_navchain":{"3":{"reload":[null]}},"w_searchlink":{"3":{"reload":[null]}},"w_search":{"3":{"reload":[null]}},"w_main_tabclassifier":{"3":{"reload":[null]}},"w_main_tabdocument":{"3":{"reload":[null]}},"w_main_tabsearch":{"3":{"reload":[null]}},"w_metadata_doc_title":{"3":{"reload":[null]}},"w_review_link":{"3":{"reload":[null]}},"w_metadata_findinclassifier":{"3":{"reload":[null]}},"w_metadata_findintoc":{"3":{"reload":[null]}},"w_metadata_section":{"3":{"reload":[null]}}},
+			'/img/loading-tpt.gif',
+			false,
+			false,
+			["l_doc_frame_inner","search_filter_toggle"]		);
+		
+		
+		App.Its.Router.selectedTab = App.Its.Router.getRememberedTab();
+		
+		App.Its.Handler.listenBasket(false);
+	});
+</script>
+<script>
+	deferred.push(function()
+	{
+		SSP.DOM.triggerReflow();
+		setTimeout(function()
+		{
+			var match = App.Its.Router.match(App.Its.Router.toInternal(window.location.toString()));
+			if(match)
+			{
+				var content = SSP.Widget('l_content');
+				var classifier = SSP.Widget('l_classifier');
+				var search = SSP.Widget('l_search');
+				var extsearch = SSP.Widget('l_extended_search');
+				
+				if(content.node && content.getStyle('display') !== 'none'
+				|| classifier.node && classifier.getStyle('display') !== 'none'
+				|| search.node && search.getStyle('display') !== 'none'
+				|| extsearch.node && extsearch.getStyle('display') !== 'none')
+					;
+				else
+				{
+					if(match.context.mode === 'content' || match.context.mode === 'bookmark')
+						content.show();
+					else if(match.context.mode === 'browse')
+						classifier.show();
+					/*else if(match.context.mode === 'search')
+						search.show();*/
+					else if(match.context.mode === 'extsearch')
+						extsearch.show();
+				}
+			}
+			try
+			{
+				SSP.Scroll.mimicByClass('mimic_scroll');
+			}
+			catch(e)
+			{
+				//debugger;
+			}
+			if(!SSP.Browser.hasTouchScreen)
+				SSP.DOM.triggerReflow();
+		}, 1000);
+	});
+</script>
+<noscript><style>
+li.collapsed > ul
+{display:block!important}
+#w_search_history div.collapsed div,
+#w_search_history div.collapsed ul
+{display:block!important}
+ul.tree li.collapsed
+{background-image:none !important}
+#w_metadata_toc li.collapsed,
+#w_search_history div.collapsed,
+#w_search_history li.collapsed
+{background-image:url('/img_new/r_minus.png') !important}
+#w_metadata_toc a:active::before,
+#w_metadata_navtree a:active::before,
+#w_metadata_toc a:focus::before,
+#w_metadata_navtree a:focus::before
+{position:absolute;top:0;bottom:0;right:0;width:100vw;display:block;content:'';z-index:-2}
+#w_metadata_toc a:active,
+#w_metadata_toc a:active::before,
+#w_metadata_navtree a:active,
+#w_metadata_navtree a:active::before,
+#w_metadata_toc a:focus,
+#w_metadata_toc a:focus::before,
+#w_metadata_navtree a:focus,
+#w_metadata_navtree a:focus::before
+{background-color:#dedede}
+#l_toc_inner,
+#l_nav_inner
+{overflow:auto;padding-right:0}
+</style></noscript>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://its.1c.ru/db/bizlegsup/content/256/hdoc"
+    },
+    "headline": "Положение о персональных данных и иные документы",
+    "image": [
+        "https://its.1c.ru/db/content/bizlegsup/_metaimage/256/hdoc/696x394.png?_=0000005DCD832941-v2",
+        "https://its.1c.ru/img_new/logo_its_og_image_300.png?_=1686643598"
+    ],
+    "author": {
+        "@type": "Organization",
+        "name": "1С",
+        "url": "https://1c.ru/"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "1С",
+        "url": "https://1c.ru/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://its.1c.ru/img_new/logo_its_og_image_300.png?_=1686643598"
+        }
+    },
+    "datePublished": "2025-06-20T00:00:00+03:00",
+    "dateModified": "2025-06-20T00:00:00+03:00",
+    "articleSection": "Бизнес-справочник: правовые аспекты"
+}
+</script>
+</div><!--noindex--><ul id="l_tabs" class="tab tab1 l"><li id="w_main_tabclassifier" class="w png null" style="display:none" src=""></li><li id="w_main_tabdocument" class="w png active" data-access="true" style="display:" src="null"><span class="inline-block"><a href="https://its.1c.ru/db/bizlegsup/content/247/hdoc" class="inline-block" target="_top">Документ</a></span></li><li id="w_main_tabsearch" class="w png null" style="display:none" src=""><span class="inline-block"><a href="https://its.1c.ru/db/bizlegsup/search" class="inline-block" target="_top" rel="nofollow">Результаты поиска</a></span><script type="text/javascript">
+deferred.push(function()
+{
+	if(SSP.Bus.cookie('SEARCH'))
+		document.getElementById('w_main_tabsearch').style.display = '';
+});
+</script></li><li id="w_main_tabextendedsearch" class="w png null" style="display:none"></li></ul><style>#l_tabs {display:none!important}</style><!--/noindex-->			<!--noindex-->
+			<div id="footer">
+				<div id="copyright">
+										© Фирма «1С». Все права защищены									</div>
+			</div>
+			<!--/noindex-->
+						<!--noindex-->
+						<script type="text/javascript">
+				deferred.push(function(){
+					App.sidebarCarousel = new App.Carousel('sidebar_container', 'sidebar', 'sidebar_up_button', 'sidebar_down_button', null, {
+						vertical:true,
+						bypixel:true,
+						absolute:true,
+						step:38,
+						wrap:false
+					});
+				});
+			</script>
+			<div id="sidebar_container" data-nosnippet="">
+						<script type="text/javascript">
+				(function(){
+					if(window.styleDeferred && styleDeferred.usingShell && !styleDeferred.inactive){
+						var sidebarContainerStyle = document.getElementById('sidebar_container').style;
+						sidebarContainerStyle.display = 'none';
+						var show = function(){
+							sidebarContainerStyle.removeProperty('display');
+						};
+						styleDeferred.unshift(function(){
+							if(window.SSP)
+								show();
+							else
+								setTimeout(show, 0);
+						});
+					}
+				})();
+			</script>
+							<div id="sidebar_close_button" onclick="var d=document,de=d.documentElement,db=d.body,rx=/\bshow-menu\b/,hc=db.className.match(rx);de.className=de.className.replace(rx, &#39;&#39;);db.className=db.className.replace(rx, &#39;&#39;);if(window.SSP&amp;&amp;window.App&amp;&amp;App.sidebarCarousel.getPosition()){App.sidebarCarousel.adjust()}"></div>
+				<div id="sidebar_up_button" class="sidebar_updown_button disabled"></div>
+				<div id="sidebar" class="sidebar_level0" style="touch-action: none;">
+					<div class="sidebar-main_container">
+						<div id="logo">
+							<a href="https://its.1c.ru/" target="_top" title="Информационная система 1С:ИТС" class="logo_its"></a>
+							<a href="https://its.1c.ru/" target="_top" title="Информационная система 1С:ИТС" class="hide_on_small">
+								<span class="about_its">
+									Информационная система 1С:ИТС								</span>
+							</a>
+						</div>
+						<div id="w_sidebar_search" class="w"><div id="search" class="logo search" onclick="!navigator.maxTouchPoints&amp;&amp;(!window.TouchEvent||!(&#39;standalone&#39; in navigator))&amp;&amp;document.getElementById(&#39;sidebar_search_input&#39;).focus();">
+	<form id="sidebar_search_form" name="sidebar_search_form" method="GET" action="https://its.1c.ru/db/bizlegsup/search/all" autocomplete="off" target="_top">
+		<input id="sidebar_search_input" type="text" name="query" value="" spellcheck="false" autocapitalize="off" onclick="if(window.msCrypto || window.msWriteProfilerMark || window.TouchEvent &amp;&amp; &#39;standalone&#39; in navigator){document.getElementById(&#39;search&#39;).className=document.getElementById(&#39;search&#39;).className.replace(/(\b\hover\b|$)/g, &#39; hover &#39;)}" data-autocomplete-notrim="" data-autocomplete-autosubmit="" data-autocomplete-cache="" data-autocomplete-suggest="sidebar_search_input_suggest" aria-label="Ввести поисковый запрос" placeholder="Поиск по сайту" autocomplete="off" data-autocomplete-url="/search/autocomplete.json?site=ru&amp;query={query}">
+		<input id="sidebar_search_reset" type="reset" onclick="if(!document.getElementById(&#39;sidebar_search_input&#39;).value){this.blur();document.documentElement.focus();if(window.msCrypto || window.msWriteProfilerMark || window.TouchEvent &amp;&amp; &#39;standalone&#39; in navigator){document.getElementById(&#39;search&#39;).className=document.getElementById(&#39;search&#39;).className.replace(/(\b\hover\b|$)/g, &#39; &#39;)}}" value="" title="Очистить/Закрыть" aria-label="" class="logo close-submenu" tabindex="0">
+		<input type="submit" style="display:none">
+		<div class="autocomplete-suggests" style="display:none"><ul id="sidebar_search_input_suggest" class="clean" style="display:none" tabindex="0" data-autocomplete-input="sidebar_search_input"></ul></div>
+	</form>
+</div>
+<script type="text/javascript">
+	deferred.push(function(){
+		App.Search.chatbotJs = 'https://portalchat.1c.ai/chatbot/widget/widget.js';
+		App.Search.chatbotCss = 'https://portalchat.1c.ai/chatbot/widget/style.css';
+		setTimeout(
+			function(){
+				App.Search.init(false, 'sidebar_search_form', 'sidebar_search_input', true);
+				var autocomplete = '/search/autocomplete.json?site=ru&query={query}';
+				if(!SSP.Browser.hasKeyboard)
+					autocomplete = autocomplete.replace('?', '?noSwitch&');
+				SSP.Form.initAutocomplete('sidebar_search_input', autocomplete);
+			},
+			0
+		);
+	});
+</script></div>						<div id="w_sidebar_menu" class="w nofreezelayout">
+<div id="sidebar_main_menu" class="section strong">
+<a class="logo i1c further" target="_top" href="https://its.1c.ru/section/i1c" data-autoclick-delay="1000" id="menu_element_i1c"><span>Инструкции по учету в программах 1С</span></a><a class="logo dev further" target="_top" href="https://its.1c.ru/section/dev" data-autoclick-delay="1000" id="menu_element_dev"><span>Инструкции по разработке на 1С</span></a><a class="logo law further" target="_top" href="https://its.1c.ru/section/law" data-autoclick-delay="1000" id="menu_element_law"><span>Консультации по законодательству</span></a><a class="logo books further" target="_top" href="https://its.1c.ru/section/books" data-autoclick-delay="1000" id="menu_element_books"><span>Книги и периодика</span></a><a class="logo info further" target="_top" href="https://its.1c.ru/section/info" data-autoclick-delay="1000" id="menu_element_info"><span>Справочная информация</span></a><a class="logo garant further" target="_top" href="https://its.1c.ru/section/garant" data-autoclick-delay="1000" id="menu_element_garant"><span>База нормативных документов</span></a></div>
+<hr>
+<div id="sidebar_extra_menu" class="section">
+<a class="logo news" target="_top" href="https://its.1c.ru/news"><span>Новости</span></a><a class="logo lector" target="_top" href="https://its.1c.ru/lector"><span>1С:Лекторий</span></a><a class="logo action further" target="_top" href="https://its.1c.ru/section/action" data-autoclick-delay="1000" id="menu_element_action"><span>Акции и конкурсы</span></a><a class="logo edu" target="_top" href="https://its.1c.ru/db/sprinfo"><span>Курсы и экзамены 1С</span></a><a class="logo review" target="_top" href="https://its.1c.ru/feedback"><span>Отзывы об ИТС</span></a><a class="logo aibot" target="_blank" href="https://portalchat.1c.ai/" rel="noopener"><span>1С:Напарник</span></a><a class="logo bestpartner" target="_top" href="https://its.1c.ru/partner/best"><span>Партнер года 2024</span></a></div>
+
+<div id="w_sidebar_section">
+	<div class="sidebar_shadow_left"></div>
+	<div id="sidebar_open_section" class="sidebar_shadow"></div>
+	<div id="sidebar_section_header" title=""></div>
+	<div id="sidebar_back_section" class="logo back-submenu"></div>
+	<div id="sidebar_close_section" class="logo close-submenu"></div>
+	<div class="sidebar-spacer l native_scroll">
+				<div id="sidebar_list">
+		</div>
+			</div>
+
+	<div id="w_sidebar_subsection">
+		<div class="sidebar_shadow"></div>
+		<div id="sidebar_subsection_header" title=""></div>
+		<div id="sidebar_back_subsection" class="logo back-submenu"></div>
+		<div id="sidebar_close_subsection" class="logo close-submenu"></div>
+		<div class="sidebar-spacer l native_scroll">
+						<div id="sidebar_sublist">
+			</div>
+					</div>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+deferred.push(function()
+{
+	var deviceType = App.getCssDeviceType();
+	App.Sidebar.init('sidebar', 'w_sidebar_section', 'w_sidebar_subsection', 'database_menu_section', SSP.Browser.hasTouchScreen, undefined);
+	
+	});
+</script>
+
+</div>						<script type="text/javascript">
+							deferred.push(function(){SSP.DOM.listenAutoclick(SSP.DOM.byId('w_sidebar_menu'));});
+						</script>
+						<hr>
+						<div class="social_icons" id="sidebar_social_icons">
+										<a target="_top" href="javascript:" id="share_vk" class="share logo vk" title="Поделиться во Вконтакте">Вконтакте</a>
+									</div>
+						<hr id="top_menu_links_copy_hr">
+						<div id="top_menu_links_copy" class="section"><a href="https://its.1c.ru/db/aboutitsnew" target="_top" rel="" class=" "><span>Об 1С:ИТС</span></a><a href="https://its.1c.ru/test-drive" target="_top" rel="" class=" "><span>Тест-драйв</span></a><a href="https://its.1c.ru/zakaz?order[comment]=%C7%E0%FF%E2%EA%E0%20%ED%E0%20%E7%E0%EA%EB%FE%F7%E5%ED%E8%E5%20%E4%EE%E3%EE%E2%EE%F0%E0%20%C8%D2%D1" target="_top" rel="" class=" "><span>Заказать ИТС</span></a><a href="https://its.1c.ru/docs/question/" target="_top" rel="" class=" "><span>Задать вопрос</span></a><a href="https://its.1c.ru/docs/update1c/" target="_top" rel="" class=" "><span>Обновить ПО</span></a><a href="https://its.1c.ru/personal/qos" target="_top" rel="" class=" "><span>Оценить 1С</span></a><a href="https://torg.1c.ru/equipment/onlayn-kassy/?utm_source=its&amp;utm_medium=tmenu" target="_blank" rel="noopener" class=" "><span>Купить кассу</span></a><a href="https://its.1c.ru/db/itsrev" target="_top" rel="" class=" "><span>Тематические подборки</span></a><a href="https://its.1c.ru/calendar" target="_top" rel="" class=" "><span>Календарь бухгалтера</span></a><a href="https://its.1c.ru/docs/calc_help/" target="_top" rel="" class=" "><span>Калькуляторы</span></a><a href="https://its.1c.ru/kbk" target="_top" rel="" class=" "><span>Подбор КБК</span></a><a href="https://its.1c.ru/db/morphmerged/search" target="_top" rel="" class=" last_search_link"><span>Последние результаты поиска</span></a><a href="https://its.1c.ru/news/subscription" target="_top" rel="" class=" "><span>Подписаться на рассылку</span></a></div>
+												<div class="sidebar-footer"></div>
+					</div>
+				</div>
+				<div id="sidebar_down_button" class="sidebar_updown_button disabled"></div>
+			</div>
+						<!--/noindex-->
+									<div id="cookie_consent_panel" style="display: block;">
+				Мы используем файлы cookie.<br>
+				Продолжая находиться на сайте, вы соглашаетесь с этим<br>
+				на условиях, указанных по <a target="_top" href="https://its.1c.ru/docs/policy/cookie">ссылке</a>.<br>
+				<div class="cookie_button_container">
+					<button id="cookie_consent" class="btn btn-default">Принимаю</button>
+				</div>
+			</div>
+			<script type="text/javascript">deferred.push(function(){App.CookieConsent.showPanel('cookie_consent_panel', 'cookie_consent', 'COOKIE_CONSENT');});</script>
+					</div>
+		<!--noindex-->
+		<script type="text/javascript">
+			(function(){
+				var links = document.getElementById('top_menu').getElementsByTagName('A');
+				var topMenuLinksCopy = document.getElementById('top_menu_links_copy');
+				for(var i = 0; i < links.length; i++){
+					var copy = document.createElement('A');
+					copy.href = links[i].href;
+					copy.target = links[i].target;
+					copy.rel = links[i].rel;
+					copy.className = links[i].parentNode.className.replace(/(^|\s)top_menu_item(\s|$)/, ' ');
+					var span = document.createElement('SPAN');
+					span.innerHTML = links[i].innerHTML;
+					copy.appendChild(span);
+					topMenuLinksCopy.appendChild(copy);
+				}
+			})();
+		</script>
+		<div id="w_popup" class="w box-shadow"><div id="popup_inner">
+	<div id="popup_controls">
+		<span id="popup_title"></span><a id="popup_close" href="javascript:"></a>
+	</div>
+	<div id="popup" tabindex="-1" class="l loading"></div>
+</div>
+<script type="text/javascript">
+	deferred.push(function(){
+		setTimeout(App.Popup.init, 0);
+	});
+</script></div>		<script type="text/javascript">
+			deferred.push(function(){
+				SSP.DOM.listen(SSP.DOM.byId('sidebar_social_icons'), 'click', App.Share.shareClick);
+			});
+		</script>
+		<script type="text/javascript">
+			deferred.push(function(){App.Stat.init('', '', '38953945', '', 'GA_PARAMS', 'USER_TYPE', {"net_cm":{"scope":"page","value":"broadband"},"net_rm":"navigate","net_aso":{"scope":"page","value":"Rostelecom"},"net_asn":{"scope":"page","value":"AS12389"},"css_init":{"scope":"request","value":null},"user_segment":":UNAUTH:"}, false, false, false);});
+			</script>
+			<noscript>
+			<div><img src="https://mc.yandex.ru/watch/38953945" style="position:absolute; left:-9999px;" alt=""></div>
+		</noscript>
+				<noscript>
+					<div><img src="https://counter.yadro.ru/hit?rhttps%3A//yandex.ru/;uhttps%3A//its.1c.ru/db/bizlegsup/content/256/hdoc;h%u041F%u043E%u043B%u043E%u0436%u0435%u043D%u0438%u0435%20%u043E%20%u043F%u0435%u0440%u0441%u043E%u043D%u0430%u043B%u044C%u043D%u044B%u0445%20%u0434%u0430%u043D%u043D%u044B%u0445%20%u0438%20%u0438%u043D%u044B%u0435%20%u0434%u043E%u043A%u0443%u043C%u0435%u043D%u0442%u044B%20%3A%3A%20%u0411%u0438%u0437%u043D%u0435%u0441-%u0441%u043F%u0440%u0430%u0432%u043E%u0447%u043D%u0438%u043A%3A%20%u043F%u0440%u0430%u0432%u043E%u0432%u044B%u0435%20%u0430%u0441%u043F%u0435%u043A%u0442%u044B;0.77983456700101" style="position:absolute; left:-9999px;" alt=""></div>
+		</noscript>
+			<script type="text/javascript">
+			if('Notification' in window)
+				deferred.push(function(){
+					var initWebPush = function(){
+						SSP.DOM.requestIdleCallback(function(){
+							if(!document.cookie.match('WEBPUSH=0'))
+								SSP.DOM.requestIdleCallback(function(){
+									if('permissions' in navigator)
+										navigator.permissions.query({name: 'notifications'}).then(function(result){
+											result.state === 'granted' && SSP.DOM.requestIdleCallback(App.WebPush.init);
+										});
+									else if(Notification.permission === 'granted')
+										SSP.DOM.requestIdleCallback(App.WebPush.init);
+								});
+						});
+					};
+						initWebPush();
+				});
+		</script>
+		<noscript><style>
+			.noscript{display:inherit!important}
+			.script{display:none!important}
+			.w.loading > *,.l.loading > *{visibility:inherit}
+			.w.loading,.l.loading{cursor:inherit;background:inherit;background-position:inherit}
+			.l.loading{margin:inherit;padding:inherit}
+			#other_sites_link {display:none}
+			#contact {margin-top:12px}
+		</style></noscript>
+		<script type="text/javascript">
+			deferred.push(function(){App.Handler.initBodyCopy('Фирма «1С»')});
+		</script>
+		<script type="text/javascript">
+			(function(){
+				var resetScroll = function(){
+					var that = this;
+					that.scrollTop = 0;
+					setTimeout(function(){that.scrollTop = 0;}, 0);
+				};
+				var resetScrollers = [document.getElementById('main_container'), document.body, document.documentElement];
+				for(var i = 0; i < resetScrollers.length; i++)
+				{
+					resetScrollers[i].scrollTop = 0;
+					resetScrollers[i].addEventListener('scroll', resetScroll, false);
+				}
+				setTimeout(function(){
+					for(var i = 0; i < resetScrollers.length; i++)
+						resetScrollers[i].scrollTop = 0;
+				}, 0);
+			})();
+		</script>
+		<script type="text/javascript">
+			(function(){
+				if(!('serviceWorker' in navigator))
+					return;
+				
+				var initWebApp = function(){
+					try{navigator.serviceWorker.register('/sw.js').catch(function(){});}catch(e){}
+					
+					if(navigator.userAgentData && navigator.userAgentData.mobile
+					|| !navigator.userAgentData && (window.TouchEvent || !('standalone' in navigator)))
+						(function(){
+							var setManifest = function(){
+								var link = document.createElement('LINK');
+								link.rel = 'manifest';
+								link.href = '/manifest.json';
+								document.head.appendChild(link);
+							};
+							if('standalone' in navigator && window.styleDeferred && !styleDeferred.inactive)
+								styleDeferred.push(setManifest);
+							else
+								setManifest();
+						})();
+				};
+				
+				if(!window.styleDeferred || styleDeferred.usingShell)
+					initWebApp();
+				else
+					deferred.push(initWebApp);
+			})();
+		</script>
+		<script type="text/javascript">
+			(function(){
+				var testLink = document.createElement('LINK');
+				var probablySupportsPrefetch = !testLink.relList || !testLink.relList.supports || testLink.relList.supports('prefetch');
+				var prefetchUrl = function(url){
+					if(!probablySupportsPrefetch && window.fetch)
+						fetch(url);
+					else{
+						var link = document.createElement('LINK');
+						link.rel = 'prefetch';
+						link.href = url;
+						document.head.appendChild(link);
+					}
+				};
+				deferred.unshift(function(){
+					var urls = ["\/font\/futura\/FuturaMediumC.woff2","\/common\/page\/css\/itsstylenew.css_?_=1697110879","\/css\/its.content.new.css?_=1693585191","\/js\/its.content.js?_=1697980666","\/common\/page\/css\/1769184892\/main__new.css_?_=1769184892","\/common\/page\/js\/1769186359\/main__new.js_?_=1769186359","\/common\/page\/css\/1769184892\/user__new.css_?_=1769184892","\/common\/page\/css\/1769184892\/document__new.css_?_=1769184892","\/font\/futura\/FuturaDemiC.woff2","\/font\/roboto\/Roboto-Light.woff2","\/font\/roboto\/Roboto-Bold.woff2","\/font\/roboto\/Roboto-Italic.woff2","\/font\/roboto\/Roboto-Black.woff2","\/font\/futura\/FuturaLightC.woff2","\/img_new\/logo_its_resize_on_white.gif"];
+					for(var i = 0; i < urls.length; i++)
+						prefetchUrl(urls[i]);
+				});
+				if(!window.styleDeferred){
+					var urls = ["\/font\/roboto\/Roboto-Light.woff2","\/font\/roboto\/Roboto-Bold.woff2"];
+					for(var i = 0; i < urls.length; i++)
+						prefetchUrl(urls[i]);
+				}
+			})();
+		</script>
+		<script type="text/javascript">
+			(function(){
+				var doPreconnect = function(){
+					var urls = ["https:\/\/mc.yandex.ru","https:\/\/counter.yadro.ru"];
+					for(var i = 0; i < urls.length; i++){
+						var link = document.createElement('LINK');
+						link.rel = 'preconnect';
+						link.href = urls[i];
+						document.head.appendChild(link);
+					}
+				};
+				if(!window.styleDeferred || styleDeferred.usingShell){
+					if(window.styleDeferred && !styleDeferred.inactive)
+						styleDeferred.push(doPreconnect);
+					else
+						doPreconnect();
+				}else
+					deferred.unshift(doPreconnect);
+			})();
+		</script>
+		<script type="text/javascript">
+			deferred.push(function(){
+				var nc = navigator.connection, dp = document.prerendering;
+				if(SSP.Browser.Android
+				|| SSP.Browser.IOS
+				|| (nc && nc.effectiveType ? nc.effectiveType !== '4g' : SSP.DOM.hasClass(document.body, 'cellular')))
+					SSP.DOM.listen(document, 'visibilitychange', function(event){
+						if(document.visibilityState === 'hidden')
+							return;
+						if(dp){
+							dp = false;
+							return;
+						}
+						SSP.Bus.request('/ping');
+					});
+			});
+		</script>
+	<script type="text/javascript">
+(function(){
+	var lp = HTMLLinkElement.prototype, fpp, st0 = function(cb){setTimeout(cb, 0);}, raf = window.requestAnimationFrame || st0, draf = function(cb){raf(function(){raf(cb);});};
+	if('fetchPriority' in lp)
+		fpp = 'fetchPriority';
+	else if('fetchpriority' in lp)
+		fpp = 'fetchpriority';
+	else
+		fpp = null;
+	var d = document, h = d.head, nc = navigator.connection, scripts = {"core":"\/common\/page\/js\/1769186359\/core__new.js_?_=1769186359","its":"\/common\/page\/js\/1769186359\/its__new.js_?_=1769186359"}, sol = function(){this.loaded=true;}, sc = false, cs = function(fph){
+		if(sc)
+			return;
+		(d.visibilityState === 'hidden' ? st0 : draf)(function(){
+			for(var js in scripts){
+				var s = d.createElement('SCRIPT');
+				s.type = 'text/javascript';
+				s.onload = sol;
+				s.onerror = sol;
+				s.async = true;
+				s.src = scripts[js];
+				if(fph && fpp)
+					s[fpp] = 'high';
+				h.appendChild(s);
+			}
+		});
+		sc = true;
+	}, qsns = function(){
+		styleDeferred.loadScriptsAfterFirstStylesheet = cs;
+		if(!styleDeferred.waitingPaint && nc && window.performance && performance.now){
+			var now = performance.now();
+			if(now < 2000 && nc.rtt >= 300 && nc.rtt <= 700){
+				var t = 2500 - now - 100 - nc.rtt;
+				if(t < 0)
+					t = 0;
+				t = parseInt(t);
+				setTimeout(function(){
+					cs(true);
+				}, t);
+			}
+		}
+	};
+	if(fpp && !('standalone' in navigator) && (!window.styleDeferred || !styleDeferred.waitingPaint)){
+		if(window.styleDeferred && !styleDeferred.inactive){
+			styleDeferred.unshift(cs);
+			if(!styleDeferred.usingFullShell)
+				qsns();
+		}
+				if(!window.styleDeferred || styleDeferred.inactive || styleDeferred.usingFullShell){
+					var le = {}, lol = function(){
+				this.onload = null;
+				this.onerror = null;
+				this.loaded = true;
+				var that = this;
+				for(var js in scripts)
+					if(le[js] !== that && !le[js].loaded)
+						return;
+				if(!window.styleDeferred || styleDeferred.inactive)
+					cs();
+			};
+			for(var js in scripts){
+				var l = d.createElement('LINK');
+				le[js] = l;
+				l.rel = 'prefetch';
+				l.as = 'script';
+				l.href = scripts[js];
+				l.onload = lol;
+				l.onerror = lol;
+				l[fpp] = window.styleDeferred && (!styleDeferred.inactive || styleDeferred.usingFullShell) ? 'low' : 'high';
+				h.appendChild(l);
+			}
+		}
+	}else{
+		if(window.styleDeferred && !styleDeferred.inactive && (!styleDeferred.usingFullShell || styleDeferred.waitingPaint)){
+			styleDeferred.unshift(cs);
+			if(styleDeferred.waitingPaint && styleDeferred.usingFullShell)
+				styleDeferred.loadScriptsAfterFirstPaint = cs;
+			else
+				qsns();
+		}
+		else
+			cs();
+	}
+})();
+</script>		<script id="end_of_body"></script>
+		<!--/noindex-->
+	
+</body></html>
